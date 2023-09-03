@@ -15,11 +15,11 @@ eğitim nedeniyle daha az aktiflikle geliştirilmeye devam edilicektir.)
 
 * Web Sitemizin Arka plan rengi kaldırılmıştır yerine arka plan fotoğrafı gelicektir.
 
-Innovations and Regulations:
-
 3 Eylül , 2023 23:17
 
 * Artık navbar'ın çözünürlüğü kullanıcının ekran çözünürlüğüne göre ayarlanmıştır.
+
+Innovations and Regulations:
 
 September 3, 2023 21:42
 
