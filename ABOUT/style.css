@@ -1,0 +1,39 @@
+.logo {
+    margin: -80px 15px 30px 15px;
+}
+.technohaber {
+    margin: -57px 0px -3px 49px;
+    font: 15px bold Arial;
+}
+.about {
+    margin: -17px 0px -3px 145px;
+    font: 15px bold Arial;
+}
+.FILES {
+    margin: -17px 0px -3px 1310px;
+    font: 15px bold Arial;
+}
+.updatehistory {
+    margin: -18px 0px -3px 229px;
+}
+.support {
+    margin: -19px 0 -3px 383px;
+}
+.plannednews {
+    margin: -19px 0 -3px 500px;
+}
+.tstitle2 {
+    margin: 37px 0px 0px 229px;
+}
+.aboutdiv {
+    width: 700px;
+    height: 300px;
+    background: #ddd;
+    margin: 50px auto;
+    border-radius: 30px;
+}
+.navbar2 {
+    width: 1366px;
+    border-top: 60px solid #ddd;
+    margin: -8px;
+}
