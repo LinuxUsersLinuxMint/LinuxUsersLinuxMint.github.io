@@ -58,8 +58,8 @@
     border-radius: 30px;
 }
 .navbar2 {
-    width: 1366px;
+    width: 100%;
     border-top: 60px solid rgb(63, 172, 63);
     margin: -8px;
-    height: 100vh;
+    height: 100%;
 }
