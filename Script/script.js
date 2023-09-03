@@ -1,0 +1,1 @@
+alert("Geliştirme Aşaması 2 - Güncellemesine Hoşgeldiniz Bildirimin Kaldırılacağı Tarih 4 Eylül , 2023 , 23:20")

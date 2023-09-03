@@ -16,14 +16,14 @@
     font: 15px bold Arial;
 }
 .nm3 {
-    margin: -17px 0px -3px 1310px;
+    margin: -17px 0px -3px 390px;
     font: 15px bold Arial;
 }
 .nm4 {
     margin: -18px 0px -3px 278px;
 }
 .nm5 {
-    margin: -19px 0 -3px 383px;
+    margin: -18px 0 -3px 475px;
 }
 .nm6 {
     margin: -19px 0 -3px 500px;
@@ -65,52 +65,7 @@
 }
 .navbar2 {
     width: 1366px;
-    border-top: 60px solid #ddd;
+    border-top: 60px solid rgb(63, 172, 63);
     margin: -8px;
-}
-.website_view_set {
-    width: 300px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-}
-.website_history {
-    width: 300px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-    margin: 10px 0 0 0;
-}
-.sub_sub_set {
-    width: 300px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-    margin: 10px 0 0 0;
-}
-.site_err_msg {
-    width: 300px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-    margin: 10px 0 0 0;
-}
-.acc_acc_set {
-    width: 300px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-    margin: 10px 0 0 0;
-}
-.website_offline_template_down {
-    width: 500px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-    margin: 10px 0 0 0;
-}
-.website_offline_copy_down {
-    width: 500px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-}
-.website_lite_down {
-    width: 500px;
-    height: 20px;
-    background: rgb(148, 144, 144);
-    margin: 10px 0 0 0;
+    height: 100%;
 }
