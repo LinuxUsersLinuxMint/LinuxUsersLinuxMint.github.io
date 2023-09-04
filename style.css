@@ -1,65 +1,51 @@
+::-webkit-scrollbar {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
 .logo {
     margin: -80px 15px 30px 15px;
 }
 .nm1 {
     margin: -57px 0px -3px 49px;
-    font: 15px bold Arial;
+    font-family: Arial;
 }
 .nm2 {
-    margin: -17px 0px -3px 193px;
-    font: 15px bold Arial;
+    margin: -18px 0px -3px 210px;
+    font-family: Arial;
 }
 .nm3 {
-    margin: -17px 0px -3px 390px;
-    font: 15px bold Arial;
+    margin: -18px 0px -3px 423px;
+    font-family: Arial;
 }
 .nm4 {
-    margin: -18px 0px -3px 278px;
+    margin: -18px 0px -3px 300px;
+    font-family: Arial;
 }
 .nm5 {
-    margin: -18px 0 -3px 475px;
+    margin: -18px 0 -3px 520px;
+    font-family: Arial;
 }
 .nm6 {
-    margin: -19px 0 -3px 500px;
-}
-.nm7 {
-    margin: -19px 0 -3px 765px;
-}
-.tst {
-    margin: 20px 0px 0px 229px;
-}
-.asw {
-    width: 500px;
-    height: 300px;
-    background: #ddd;
-    border-radius: 50px; 
-}
-.tcerror {
-    width: 500px;
-    height: 300px;
-    background: #ddd;
-    border-radius: 50px;
-    margin: -299px 0 0 530px;
-}
-.img1 {
-    margin: 10px 0 0 90px;
-}
-.img2 {
-    margin: 10px 0 0 157px;
-}
-.tstitle2 {
-    margin: 37px 0px 0px 229px;
-}
-.aboutdiv {
-    width: 700px;
-    height: 300px;
-    background: #ddd;
-    margin: 50px auto;
-    border-radius: 30px;
+    margin: -18px 0 -3px 725px;
+    font-family: Arial;
 }
 .navbar2 {
-    width: 100%;
+    width: 102%;
     border-top: 60px solid rgb(63, 172, 63);
     margin: -8px;
-    height: 100%;
+    height: 100vh;
+}
+.abt {
+    text-align: center;
+    margin: -635px 0 -3px;
+    color: rgb(63, 172, 63);
+    font-family: Arial;
+}
+.abtcont {
+    width: 700px;
+    border-top: 350px solid rgb(63, 172, 63);
+    margin: 40px 0 -3px 320px;
+    height: 100px;
+    border-radius: 9px 9px;
 }

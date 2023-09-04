@@ -1,1 +1,1 @@
-alert("Geliştirme Aşaması 2 - Güncellemesine Hoşgeldiniz Bildirimin Kaldırılacağı Tarih 4 Eylül , 2023 , 23:20")
+alert("Geliştirme Aşaması 3 - Güncellemesine Hoşgeldiniz Bir sonraki Güncellemenin geleceği Tarih 5 Eylül , 2023 , 23:20")
