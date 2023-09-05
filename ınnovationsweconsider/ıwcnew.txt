@@ -3,7 +3,7 @@ Gelecekte Düşündüğümüz Yenilikler ve Düzenlemeler:
 4 Eylül , 2023 , 18:15
 
 * Web Sitemiz için Sürekli Güncellenen bir önizleme sunucusu oluşturmayı düşünüyoruz 
-DURUM=EKLENMEDI (güncellenme tarihi 4 Eylül , 2023 , 18:15)
+DURUM=EKLENMEDI (güncellenme tarihi 5 Eylül , 2023 , 20:30)
 
 * Web sitemizde ki yönlendirme linklerinin iframe penceresi üzerinde çalıştırmak
 DURUM=EKLENMEDI (güncellenme tarihi 4 Eylül , 2023 , 18:15)
@@ -13,7 +13,7 @@ Future Innovations and Regulations We Consider:
 September 4 , 2023 , 18:15
 
 * We are considering creating a Continuously Updated preview server for our Website
-STATUS=NOT ADDED (updated September 4 , 2023 , 6:15 pm)
+STATUS=NOT ADDED (updated September 5 , 2023 , 8:30 pm)
 
 * Running the redirect links on our website on the iframe window
 STATUS=NOT ADDED (updated September 4 , 2023 , 6:15 pm)

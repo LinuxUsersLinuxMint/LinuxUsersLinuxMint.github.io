@@ -1,0 +1,41 @@
+Yenilikler Ve Düzenlemeler:
+
+3 Eylül , 2023 21:42
+
+* Projelerimiz Adlı bölüm ilk projemi tanıtmak ve geçici bir süreliğine https://github.com/LinuxUsersLinuxMint/Python-Calcutator
+web adresine yönlendirecek şekilde ayarlanmıştır. Bu değişikliğin Geri alınacağı tarih: 13 Eylül , 2023 , 21:30
+
+* Hakkımızda adlı bölüm geçici bir süreliğine https://github.com/LinuxUsersLinuxMint web adresine yönlendirilecek şekilde ayarlanmıştır.
+Bu değişikliğin geri alınacağı tarih: 5 Eylül , 2023 , 21:30
+
+* Web sitesi 11 Eylüle Kadar Aktif olarak geliştirilmeye devam edilicektir. (11 Eylülden sonra geliştirme işlemi
+eğitim nedeniyle daha az aktiflikle geliştirilmeye devam edilicektir.)
+
+3 Eylül , 2023 21:59
+
+* Web Sitemizin Arka plan rengi kaldırılmıştır yerine arka plan fotoğrafı gelicektir.
+
+3 Eylül , 2023 23:17
+
+* Artık navbar'ın çözünürlüğü kullanıcının ekran çözünürlüğüne göre ayarlanmıştır.
+
+Innovations and Regulations:
+
+September 3, 2023 21:42
+
+* Our Projects section is to introduce my first project and temporarily https://github.com/LinuxUsersLinuxMint/Python-Calcutator
+It is set to redirect to the web address. This change will be Reverted on: September 13 , 2023 , 21:30
+
+* About us section is temporarily set to redirect to https://github.com/LinuxUsersLinuxMint web address.
+The date this change will be reversed: September 5 , 2023 , 21:30
+
+* The website will continue to be actively developed until September 11. (The development process after 9/11
+will continue to be developed with less activity due to training.)
+
+September 3 , 2023 21:59
+
+* The Background color of our website has been removed, and the background photo will be replaced.
+
+September 3, 2023 23:17
+
+* Now the resolution of the navbar is adjusted according to the user's screen resolution.

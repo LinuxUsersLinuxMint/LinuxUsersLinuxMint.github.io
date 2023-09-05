@@ -1,3 +1,6 @@
+.body {
+    background: url("/IMAGES/lnxmint.jpg");
+}
 ::-webkit-scrollbar {
     display: none;
     visibility: hidden;
@@ -15,19 +18,23 @@
     font-family: Arial;
 }
 .nm3 {
-    margin: -18px 0px -3px 423px;
+    margin: -18px 0px -3px 296px;
     font-family: Arial;
 }
 .nm4 {
-    margin: -18px 0px -3px 300px;
+    margin: -18px 0px -3px 540px;
     font-family: Arial;
 }
 .nm5 {
-    margin: -18px 0 -3px 520px;
+    margin: -18px 0 -3px 410px;
     font-family: Arial;
 }
 .nm6 {
-    margin: -18px 0 -3px 725px;
+    margin: -18px 0 -3px 640px;
+    font-family: Arial;
+}
+.nm7 {
+    margin: -18px 0 -3px 845px;
     font-family: Arial;
 }
 .navbar2 {
@@ -48,4 +55,41 @@
     margin: 40px 0 -3px 320px;
     height: 100px;
     border-radius: 9px 9px;
+}
+.abt-desk {
+    text-align: center;
+    margin: -938px 0 -3px;
+    color: rgb(63, 172, 63);
+    font-family: Arial;
+}
+.abtcont-desk {
+    width: 700px;
+    border-top: 350px solid rgb(63, 172, 63);
+    margin: 40px 0 -3px 600px;
+    height: 100px;
+    border-radius: 9px 9px;
+}
+.gthbacc {
+    margin: -330px 0 -3px 20px;
+    font-family: Arial;
+    color: rgb(37, 236, 37);
+    font-size: 20px;
+}
+.gthbabt {
+    margin: 8px 0 -3px 20px;
+    font-family: Arial;
+    color: rgb(37, 236, 37);
+    font-size: 20px;
+}
+.prj {
+    margin: 8px 0 -3px 20px;
+    font-family: Arial;
+    color: rgb(37, 236, 37);
+    font-size: 20px;
+}
+.frks {
+    margin: 8px 0 -3px 20px;
+    font-family: Arial;
+    color: rgb(37, 236, 37);
+    font-size: 20px;
 }
