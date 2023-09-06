@@ -8,6 +8,11 @@ DURUM=EKLENMEDI (güncellenme tarihi 5 Eylül , 2023 , 20:30)
 * Web sitemizde ki yönlendirme linklerinin iframe penceresi üzerinde çalıştırmak
 DURUM=EKLENMEDI (güncellenme tarihi 4 Eylül , 2023 , 18:15)
 
+6 Eylül , 2023 , 18:36
+
+* Web sitemiz için dil tanımlanıp çeviri yapılmasını düşünüyoruz.
+DURUM=DOSYAOLUŞTURULDU (güncellenme tarihi 6 Eylül , 2023 , 18:36)
+
 Future Innovations and Regulations We Consider:
 
 September 4 , 2023 , 18:15
@@ -17,3 +22,8 @@ STATUS=NOT ADDED (updated September 5 , 2023 , 8:30 pm)
 
 * Running the redirect links on our website on the iframe window
 STATUS=NOT ADDED (updated September 4 , 2023 , 6:15 pm)
+
+September 6 , 2023 , 18:36
+
+* We are considering defining and translating the language for our website.
+STATUS=FILE CREATED (updated September 6, 2023, 18:36)
