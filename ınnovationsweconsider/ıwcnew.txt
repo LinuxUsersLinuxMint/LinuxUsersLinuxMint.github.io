@@ -11,7 +11,7 @@ DURUM=EKLENMEDI (güncellenme tarihi 4 Eylül , 2023 , 18:15)
 6 Eylül , 2023 , 18:36
 
 * Web sitemiz için dil tanımlanıp çeviri yapılmasını düşünüyoruz.
-DURUM=DOSYAOLUŞTURULDU (güncellenme tarihi 6 Eylül , 2023 , 18:36)
+DURUM=DOSYALARGUNCELLENDI (güncellenme tarihi 8 Eylül , 2023 , 22:56)
 
 Future Innovations and Regulations We Consider:
 
@@ -26,4 +26,4 @@ STATUS=NOT ADDED (updated September 4 , 2023 , 6:15 pm)
 September 6 , 2023 , 18:36
 
 * We are considering defining and translating the language for our website.
-STATUS=FILE CREATED (updated September 6, 2023, 18:36)
+STATUS=FILESUPDATED (updated September 8, 2023, 22:56)
