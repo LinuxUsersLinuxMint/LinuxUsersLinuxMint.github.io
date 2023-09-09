@@ -15,3 +15,29 @@ Masaüstü platformlar için tekrardan yapılmış bir halidir Bu bölümün kal
 5 Eylül , 2023 , 20:22
 
 * Hakkımda Adlı Bölüm Değişikliği geri alınmıştır Değişiklik Geri Alınma tarihi: 5 , Eylül , 2023 , 23:20
+
+9 Eylül , 2023 , 23:56
+
+* Güncelleme Tarihi 12 Eylül'e çekildi.
+
+Innovations and Regulations:
+
+September 5, 2023, 17:30
+
+* The file name of the changes made on September 4 has been changed to whatsnewold.txt.
+ * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
+  * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold_1.txt
+
+* Now the background code on our web pages has been moved to style.css code.
+
+* About Us.dsk section has been added next to the About Us section. This section is part of the About Us section.
+It is a remake for desktop platforms. This section will be removed on: January 1, 2024, 23:20
+(The reason why this period is so long is education and other innovations coming to the website.)
+
+September 5, 2023, 20:22
+
+* About Me Section Change has been reverted. Change Revert date: 5, September, 2023, 23:20
+
+September 9 , 2023 , 23:56
+
+* The Update Date has been moved to September 12.
