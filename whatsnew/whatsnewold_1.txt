@@ -1,41 +1,45 @@
 Yenilikler Ve Düzenlemeler:
 
-3 Eylül , 2023 21:42
+4 Eylül , 2023 , 16:19
 
-* Projelerimiz Adlı bölüm ilk projemi tanıtmak ve geçici bir süreliğine https://github.com/LinuxUsersLinuxMint/Python-Calcutator
-web adresine yönlendirecek şekilde ayarlanmıştır. Bu değişikliğin Geri alınacağı tarih: 13 Eylül , 2023 , 21:30
+* Eski Yenilikler Ve Düzenlemeler Dosyasının adı whatsnewold.txt olarak değiştirilmiştir önceki sürümlerin
+yeniliklerini merak ediyorsanız şu linkten ulaşabilirsiniz: https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
 
-* Hakkımızda adlı bölüm geçici bir süreliğine https://github.com/LinuxUsersLinuxMint web adresine yönlendirilecek şekilde ayarlanmıştır.
+* navbar'ın monitor çözünürlüğüne tam uymaması ile ilgili bir sorun düzeltilmiştir.
+ * scroll-bar devre dışı bırakılmıştır (kaydırma çubuğu)
+  * Klavyedeki ok tuşlarını kullanarak kaydırma işlemini yapabilirsiniz.
+
+* Hakkımızda Kısmı geçici olarak Github hesabımın https://github.com/LinuxUsersLinuxMint web adresine yönlendirilecek şekilde ayarlanmıştır.
 Bu değişikliğin geri alınacağı tarih: 5 Eylül , 2023 , 21:30
 
-* Web sitesi 11 Eylüle Kadar Aktif olarak geliştirilmeye devam edilicektir. (11 Eylülden sonra geliştirme işlemi
-eğitim nedeniyle daha az aktiflikle geliştirilmeye devam edilicektir.)
+4 Eylül , 2023 , 18:15
 
-3 Eylül , 2023 21:59
+* Web sitemize artık Düşündüğümüz Yenilikler ve Düzenlemeler kısmını ekledik bu kısımda gelecekte düşünülen
+Yenilikleri ve düzenlemeleri görebilirsiniz.
 
-* Web Sitemizin Arka plan rengi kaldırılmıştır yerine arka plan fotoğrafı gelicektir.
+4 Eylül , 2023 , 21:46
 
-3 Eylül , 2023 23:17
-
-* Artık navbar'ın çözünürlüğü kullanıcının ekran çözünürlüğüne göre ayarlanmıştır.
+* Web Sitemizde yazıların fontu Arial olarak değiştirilmiştir.
 
 Innovations and Regulations:
 
-September 3, 2023 21:42
+September 4 , 2023 , 16:19
 
-* Our Projects section is to introduce my first project and temporarily https://github.com/LinuxUsersLinuxMint/Python-Calcutator
-It is set to redirect to the web address. This change will be Reverted on: September 13 , 2023 , 21:30
+* The name of the Old Innovations And Edits File has been changed to whatsnewold.txt of previous versions
+If you are curious about its innovations, you can find it at this link: https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
 
-* About us section is temporarily set to redirect to https://github.com/LinuxUsersLinuxMint web address.
-The date this change will be reversed: September 5 , 2023 , 21:30
+* Fixed an issue with the navbar not matching the monitor resolution properly.
+ * scroll-bar is disabled (scroll bar)
+  * You can scroll using the arrow keys on the keyboard.
 
-* The website will continue to be actively developed until September 11. (The development process after 9/11
-will continue to be developed with less activity due to training.)
+* About Us Section is temporarily set to redirect my Github account to https://github.com/LinuxUsersLinuxMint web address.
+This change will be rolled back on: September 5 , 2023 , 21:30
 
-September 3 , 2023 21:59
+September 4 , 2023 , 18:15
 
-* The Background color of our website has been removed, and the background photo will be replaced.
+* We have now added the Innovations and Regulations We Consider section to our website
+You can see the innovations and regulations.
 
-September 3, 2023 23:17
+September 4 , 2023 , 21:46
 
-* Now the resolution of the navbar is adjusted according to the user's screen resolution.
+* The font of the articles on our website has been changed to Arial.

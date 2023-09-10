@@ -1,43 +1,27 @@
-Yeniklikler ve Düzenlemeler:
+Yenilikler Ve Düzenlemeler:
 
-5 Eylül , 2023 , 17:30
+10 Eylül , 2023 , 14:56
 
-* 4 Eylül' de yapılan değişikliklerin dosya adı whatsnewold.txt olarak değiştirilmiştir.
- * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
-  * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold_1.txt
+* Projelerim Kısmı Geçici bir süreliğine Hakkımda Kısmına yönlendirecek şekilde ayarlanmıştır.
+(Değişikliğin Geri Alınacağı Tarih: 16 Eylül , 2023 , 23:20)
 
-* Artık web sayfalarımızdaki arkaplan kodu style.css koduna taşınmıştır.
+* whatsnewold,whatsnewold_1,whatsnewold_2 dosyalarına şu linklerden erişebilirsiniz:
+ * https://linuxuserslinuxmint.github.io/whatstnew/whatsnewold.txt
+  * https://linuxuserslinuxmint.github.io/whatstnew/whatsnewold_1.txt
+   * https://linuxuserslinuxmint.github.io/whatstnew/whatsnewold_2.txt
 
-* Hakkımızda adlı bölümün yanına Hakkımızda.dsk bölümü eklenmiştir bu bölüm Hakkımızda bölümünün
-Masaüstü platformlar için tekrardan yapılmış bir halidir Bu bölümün kaldırılacağı tarih: 1 Ocak , 2024 , 23:20
-(Bu sürenin bu kadar uzun olma sebebiyeti eğitim ve Web sitesine gelicek diğer yeniliklerdir.)
-
-5 Eylül , 2023 , 20:22
-
-* Hakkımda Adlı Bölüm Değişikliği geri alınmıştır Değişiklik Geri Alınma tarihi: 5 , Eylül , 2023 , 23:20
-
-9 Eylül , 2023 , 23:56
-
-* Güncelleme Tarihi 12 Eylül'e çekildi.
+* Web Sitemize Çeviri desteği eklenmiştir. (EN/TR)
 
 Innovations and Regulations:
 
-September 5, 2023, 17:30
+September 10, 2023, 14:56
 
-* The file name of the changes made on September 4 has been changed to whatsnewold.txt.
- * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
-  * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold_1.txt
+* My Projects Section has been set to temporarily redirect to the About Me Section.
+(Date to Revert Change: 16 September 2023, 23:20)
 
-* Now the background code on our web pages has been moved to style.css code.
+* You can access whatsnewold, whatsnewold_1, whatsnewold_2 files from the following links:
+ * https://linuxuserslinuxmint.github.io/whatstnew/whatsnewold.txt
+  * https://linuxuserslinuxmint.github.io/whatstnew/whatsnewold_1.txt
+   * https://linuxuserslinuxmint.github.io/whatstnew/whatsnewold_2.txt
 
-* About Us.dsk section has been added next to the About Us section. This section is part of the About Us section.
-It is a remake for desktop platforms. This section will be removed on: January 1, 2024, 23:20
-(The reason why this period is so long is education and other innovations coming to the website.)
-
-September 5, 2023, 20:22
-
-* About Me Section Change has been reverted. Change Revert date: 5, September, 2023, 23:20
-
-September 9 , 2023 , 23:56
-
-* The Update Date has been moved to September 12.
+* Translation support has been added to our website. (EN/TR)

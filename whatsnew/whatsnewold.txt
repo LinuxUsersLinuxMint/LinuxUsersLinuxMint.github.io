@@ -1,45 +1,43 @@
-Yenilikler Ve Düzenlemeler:
+Yeniklikler ve Düzenlemeler:
 
-4 Eylül , 2023 , 16:19
+5 Eylül , 2023 , 17:30
 
-* Eski Yenilikler Ve Düzenlemeler Dosyasının adı whatsnewold.txt olarak değiştirilmiştir önceki sürümlerin
-yeniliklerini merak ediyorsanız şu linkten ulaşabilirsiniz: https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
+* 4 Eylül' de yapılan değişikliklerin dosya adı whatsnewold.txt olarak değiştirilmiştir.
+ * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
+  * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold_1.txt
 
-* navbar'ın monitor çözünürlüğüne tam uymaması ile ilgili bir sorun düzeltilmiştir.
- * scroll-bar devre dışı bırakılmıştır (kaydırma çubuğu)
-  * Klavyedeki ok tuşlarını kullanarak kaydırma işlemini yapabilirsiniz.
+* Artık web sayfalarımızdaki arkaplan kodu style.css koduna taşınmıştır.
 
-* Hakkımızda Kısmı geçici olarak Github hesabımın https://github.com/LinuxUsersLinuxMint web adresine yönlendirilecek şekilde ayarlanmıştır.
-Bu değişikliğin geri alınacağı tarih: 5 Eylül , 2023 , 21:30
+* Hakkımızda adlı bölümün yanına Hakkımızda.dsk bölümü eklenmiştir bu bölüm Hakkımızda bölümünün
+Masaüstü platformlar için tekrardan yapılmış bir halidir Bu bölümün kaldırılacağı tarih: 1 Ocak , 2024 , 23:20
+(Bu sürenin bu kadar uzun olma sebebiyeti eğitim ve Web sitesine gelicek diğer yeniliklerdir.)
 
-4 Eylül , 2023 , 18:15
+5 Eylül , 2023 , 20:22
 
-* Web sitemize artık Düşündüğümüz Yenilikler ve Düzenlemeler kısmını ekledik bu kısımda gelecekte düşünülen
-Yenilikleri ve düzenlemeleri görebilirsiniz.
+* Hakkımda Adlı Bölüm Değişikliği geri alınmıştır Değişiklik Geri Alınma tarihi: 5 , Eylül , 2023 , 23:20
 
-4 Eylül , 2023 , 21:46
+9 Eylül , 2023 , 23:56
 
-* Web Sitemizde yazıların fontu Arial olarak değiştirilmiştir.
+* Güncelleme Tarihi 12 Eylül'e çekildi.
 
 Innovations and Regulations:
 
-September 4 , 2023 , 16:19
+September 5, 2023, 17:30
 
-* The name of the Old Innovations And Edits File has been changed to whatsnewold.txt of previous versions
-If you are curious about its innovations, you can find it at this link: https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
+* The file name of the changes made on September 4 has been changed to whatsnewold.txt.
+ * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold.txt
+  * https://linuxuserslinuxmint.github.io/whatsnew/whatsnewold_1.txt
 
-* Fixed an issue with the navbar not matching the monitor resolution properly.
- * scroll-bar is disabled (scroll bar)
-  * You can scroll using the arrow keys on the keyboard.
+* Now the background code on our web pages has been moved to style.css code.
 
-* About Us Section is temporarily set to redirect my Github account to https://github.com/LinuxUsersLinuxMint web address.
-This change will be rolled back on: September 5 , 2023 , 21:30
+* About Us.dsk section has been added next to the About Us section. This section is part of the About Us section.
+It is a remake for desktop platforms. This section will be removed on: January 1, 2024, 23:20
+(The reason why this period is so long is education and other innovations coming to the website.)
 
-September 4 , 2023 , 18:15
+September 5, 2023, 20:22
 
-* We have now added the Innovations and Regulations We Consider section to our website
-You can see the innovations and regulations.
+* About Me Section Change has been reverted. Change Revert date: 5, September, 2023, 23:20
 
-September 4 , 2023 , 21:46
+September 9 , 2023 , 23:56
 
-* The font of the articles on our website has been changed to Arial.
+* The Update Date has been moved to September 12.
