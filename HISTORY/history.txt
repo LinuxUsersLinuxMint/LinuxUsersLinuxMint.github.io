@@ -1,3 +1,11 @@
-* Son Güncellenme Tarihi Bulunamamıştır.
+* Son Güncellenme Tarihi 17 Eylül , 2023 , 18:55:
+ * PROJECT Bölümleri Güncellenmiştir:
+  * Dosya Dizinleri:
+   * /EN/PROJECT/*.*
+   * /TR/PROJECT/*.*
 
-* Last Updated Date Not Found. 
+* Last Updated Date: 17 September , 2023 , 18:55:
+ * PROJECT Sections have been Updated:
+  * File Directories:
+   * /EN/PROJECT/*.*
+   * /TR/PROJECT/*.*
