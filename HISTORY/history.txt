@@ -4,8 +4,14 @@
    * /EN/PROJECT/*.*
    * /TR/PROJECT/*.*
 
+* Son Güncelleme Tarihi 17 Eylül , 2023 , 21:03:
+ * script.js ikiye ayrılmıştır script_tr , script_en
+
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
   * File Directories:
    * /EN/PROJECT/*.*
    * /TR/PROJECT/*.*
+
+* Last Updated on September 17, 2023, 21:03:
+ * script.js is divided into two: script_tr, script_en
