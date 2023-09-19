@@ -7,6 +7,10 @@
 * Son Güncelleme Tarihi 17 Eylül , 2023 , 21:03:
  * script.js ikiye ayrılmıştır script_tr , script_en
 
+* Son Güncellenme Tarihi 19 Eylül , 2023 , 19:07:
+ * Profil resmi ve arkaplan değiştirilmiştir.
+  * Navbar rengi temaya uyarlanmıştır.
+
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
   * File Directories:
@@ -15,3 +19,7 @@
 
 * Last Updated on September 17, 2023, 21:03:
  * script.js is divided into two: script_tr, script_en
+
+* Last Updated on September 19, 2023, 19:07:
+ * Profile picture and background have been changed.
+  * Navbar color is adapted to the theme.
