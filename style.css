@@ -1,5 +1,5 @@
 .body {
-    background: url("/IMAGES/lnxmint.jpg");
+    background: url("/IMAGES/macos.png");
 }
 ::-webkit-scrollbar {
     display: none;
@@ -47,19 +47,19 @@
 }
 .navbar2 {
     width: 102%;
-    border-top: 60px solid rgb(63, 172, 63);
+    border-top: 60px solid rgb(103, 38, 207);
     margin: -8px;
     height: 100vh;
 }
 .abt {
     text-align: center;
     margin: -635px 0 -3px;
-    color: rgb(63, 172, 63);
+    color: rgb(103, 38, 207);
     font-family: Arial;
 }
 .abtcont {
     width: 700px;
-    border-top: 350px solid rgb(63, 172, 63);
+    border-top: 350px solid rgb(103, 38, 207);
     margin: 40px 0 -3px 320px;
     height: 100px;
     border-radius: 9px 9px;
@@ -67,12 +67,12 @@
 .abt-desk {
     text-align: center;
     margin: -938px 0 -3px;
-    color: rgb(63, 172, 63);
+    color: rgb(103, 38, 207);
     font-family: Arial;
 }
 .abtcont-desk {
     width: 700px;
-    border-top: 350px solid rgb(63, 172, 63);
+    border-top: 350px solid rgb(103, 38, 207);
     margin: 40px 0 -3px 600px;
     height: 100px;
     border-radius: 9px 9px;
@@ -80,24 +80,24 @@
 .gthbacc {
     margin: -330px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(37, 236, 37);
+    color: rgb(103, 38, 207);
     font-size: 20px;
 }
 .gthbabt {
     margin: 8px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(37, 236, 37);
+    color: rgb(103, 38, 207);
     font-size: 20px;
 }
 .prj {
     margin: 8px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(37, 236, 37);
+    color: rgb(103, 38, 207);
     font-size: 20px;
 }
 .frks {
     margin: 8px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(37, 236, 37);
+    color: rgb(103, 38, 207);
     font-size: 20px;
 }
