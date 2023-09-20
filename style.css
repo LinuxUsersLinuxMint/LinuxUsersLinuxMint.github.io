@@ -48,6 +48,8 @@
 .navbar2 {
     width: 102%;
     border-top: 60px solid rgb(103, 38, 207);
+    border-top-right-radius: 9px;
+    border-top-left-radius: 9px;
     margin: -8px;
     height: 100vh;
 }
@@ -60,9 +62,11 @@
 .abtcont {
     width: 700px;
     border-top: 350px solid rgb(103, 38, 207);
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-end-start-radius: 10px;
     margin: 40px 0 -3px 320px;
     height: 100px;
-    border-radius: 9px 9px;
 }
 .abt-desk {
     text-align: center;
@@ -80,24 +84,24 @@
 .gthbacc {
     margin: -330px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(103, 38, 207);
+    color: rgb(151, 31, 207);
     font-size: 20px;
 }
 .gthbabt {
     margin: 8px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(103, 38, 207);
+    color: rgb(151, 31, 207);
     font-size: 20px;
 }
 .prj {
     margin: 8px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(103, 38, 207);
+    color: rgb(151, 31, 207);
     font-size: 20px;
 }
 .frks {
     margin: 8px 0 -3px 20px;
     font-family: Arial;
-    color: rgb(103, 38, 207);
+    color: rgb(151, 31, 207);
     font-size: 20px;
 }
