@@ -11,6 +11,9 @@
  * Profil resmi ve arkaplan değiştirilmiştir.
   * Navbar rengi temaya uyarlanmıştır.
 
+* Son güncelleme 20 Eylül , 2023 , 18:08:
+ * /IMAGES/ klasörü kaldırılmıştır arka plan dosyası OneDrive'a taşınmıştır.
+
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
   * File Directories:
@@ -23,3 +26,6 @@
 * Last Updated on September 19, 2023, 19:07:
  * Profile picture and background have been changed.
   * Navbar color is adapted to the theme.
+
+* Last update September 20, 2023, 18:08:
+ * The /IMAGES/ folder has been removed and the background file has been moved to OneDrive.
