@@ -5,26 +5,37 @@ Gelecekte Düşündüğümüz Yenilikler ve Düzenlemeler:
 * Web Sitemiz için Sürekli Güncellenen bir önizleme sunucusu oluşturmayı düşünüyoruz 
 DURUM=EKLENMEDI (güncellenme tarihi 5 Eylül , 2023 , 20:30)
 
-* Web sitemizde ki yönlendirme linklerinin iframe penceresi üzerinde çalıştırmak
-DURUM=EKLENMEDI (güncellenme tarihi 4 Eylül , 2023 , 18:15)
+* Web sitemizde ki yönlendirme linklerinin iframe penceresi üzerinde çalıştırmayı düşünüyoruz.
+DURUM=EKLENMEDI (güncellenme tarihi 21 Eylül , 2023 , 17:46)
 
 6 Eylül , 2023 , 18:36
 
 * Web sitemiz için dil tanımlanıp çeviri yapılmasını düşünüyoruz.
-DURUM=GUNCELLEME HAZIR... (güncellenme tarihi 10 Eylül , 2023 , 15:53)
+DURUM=GUNCELLEME YUKLENDI (güncellenme tarihi 10 Eylül , 2023 , 15:53)
+
+21 Eylül , 2023 , 17:45:
+
+* Web Sitesindeki Nesnelerin Tamamen Yuvarlatılması (border-radius) üzerinde çalışıyoruz.
+DURUM=EKLENMEDI (güncellenme tarihi 21 Eylül , 2023 , 17:46)
 
 
-Future Innovations and Regulations We Consider:
 
-September 4 , 2023 , 18:15
+Innovations and Regulations We Consider in the Future:
+
+September 4, 2023, 18:15
 
 * We are considering creating a Continuously Updated preview server for our Website
-STATUS=NOT ADDED (updated September 5 , 2023 , 8:30 pm)
+STATUS=NOT ADDED (updated September 5, 2023, 20:30)
 
-* Running the redirect links on our website on the iframe window
-STATUS=NOT ADDED (updated September 4 , 2023 , 6:15 pm)
+* We are considering running the redirect links on our website on the iframe window.
+STATUS=NOT ADDED (updated on September 21, 2023, 17:46)
 
-September 6 , 2023 , 18:36
+September 6, 2023, 18:36
 
-* We are considering defining and translating the language for our website.
-STATUS=UPDATE READY... (updated September 10, 2023, 15:53)
+* We are considering defining a language for our website and making translations.
+STATUS=UPDATE UPLOADED (updated on September 10, 2023, 15:53)
+
+September 21, 2023, 17:45:
+
+* We are working on Fully Rounding (border-radius) of Objects on the Website.
+STATUS=NOT ADDED (updated on September 21, 2023, 17:46)
