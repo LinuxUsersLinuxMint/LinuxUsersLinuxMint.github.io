@@ -51,10 +51,11 @@
 
 }
 .navbar2 {
-    width: 102%;
-    border-top: 60px solid rgb(103, 38, 207);
-    margin: -8px;
-    height: 100vh;
+    width: 95%;
+    border: 35px solid rgb(103, 38, 207);
+    border-radius: 9px;
+    margin: -1px;
+    height: 0vh;
 }
 .abt {
     text-align: center;
