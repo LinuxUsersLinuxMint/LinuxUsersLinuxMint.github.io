@@ -45,6 +45,11 @@
     margin: -18px 0 -3px 1265px;
     font-family: Arial;
 }
+.home:link, .home:visited, .home:hover, .home:active {
+    color: rgb(151, 31, 207);
+    text-decoration: none;
+
+}
 .navbar2 {
     width: 102%;
     border-top: 60px solid rgb(103, 38, 207);
