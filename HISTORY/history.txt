@@ -11,6 +11,9 @@
  * Profil resmi ve arkaplan değiştirilmiştir.
   * Navbar rengi temaya uyarlanmıştır.
 
+* Son Güncelleme Tarihi 21 Eylül , 2023 , 19:07:
+ * /EN/style.css dosyası güncellenmiştir.
+
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
   * File Directories:
@@ -23,3 +26,6 @@
 * Last Updated on September 19, 2023, 19:07:
  * Profile picture and background have been changed.
   * Navbar color is adapted to the theme.
+
+* Last Updated on September 21, 2023, 19:07:
+ * /EN/style.css file has been updated.
