@@ -16,7 +16,7 @@ DURUM=GUNCELLEME YUKLENDI (güncellenme tarihi 10 Eylül , 2023 , 15:53)
 21 Eylül , 2023 , 17:45:
 
 * Web Sitesindeki Nesnelerin Tamamen Yuvarlatılması (border-radius) üzerinde çalışıyoruz.
-DURUM=EKLENMEDI (güncellenme tarihi 21 Eylül , 2023 , 17:46)
+DURUM=GUNCELLEME YUKLENDI (güncellenme tarihi 21 Eylül , 2023 , 21:04) (/EN/ Bölümü üzerinde çalışılıyor...)
 
 
 
@@ -38,4 +38,4 @@ STATUS=UPDATE UPLOADED (updated on September 10, 2023, 15:53)
 September 21, 2023, 17:45:
 
 * We are working on Fully Rounding (border-radius) of Objects on the Website.
-STATUS=NOT ADDED (updated on September 21, 2023, 17:46)
+STATUS=UPDATE UPLOADED (updated on September 21, 2023, 21:04) (Working on /EN/ Section...)

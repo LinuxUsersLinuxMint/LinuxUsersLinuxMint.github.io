@@ -7,42 +7,42 @@
     opacity: 0;
 }
 .logo {
-    margin: -80px 15px 30px 15px;
+    margin: -15px 15px 30px -23px;
 }
 .nm1 {
-    margin: -57px 0px -3px 49px;
+    margin: -57px 0px -3px 20px;
     font-family: Arial;
 }
 .nm2 {
-    margin: -18px 0px -3px 210px;
+    margin: -18px 0px -3px 183px;
     font-family: Arial;
 }
 .nm3 {
-    margin: -18px 0px -3px 296px;
+    margin: -18px 0px -3px 270px;
     font-family: Arial;
 }
 .nm4 {
-    margin: -18px 0px -3px 410px;
+    margin: -18px 0px -3px 387px;
     font-family: Arial;
 }
 .nm5 {
-    margin: -18px 0 -3px 497px;
+    margin: -18px 0 -3px 475px;
     font-family: Arial;
 }
 .nm6 {
-    margin: -18px 0 -3px 615px;
+    margin: -18px 0 -3px 593px;
     font-family: Arial;
 }
 .nm7 {
-    margin: -18px 0 -3px 745px;
+    margin: -18px 0 -3px 725px;
     font-family: Arial;
 }
 .nm8 {
-    margin: -18px 0 -3px 948px;
+    margin: -18px 0 -3px 930px;
     font-family: Arial;
 }
 .nm9  {
-    margin: -18px 0 -3px 1265px;
+    margin: -18px 0 -3px 1250px;
     font-family: Arial;
 }
 .home:link, .home:visited, .home:hover, .home:active {
@@ -51,12 +51,11 @@
 
 }
 .navbar2 {
-    width: 102%;
-    border-top: 60px solid rgb(103, 38, 207);
-    border-top-right-radius: 9px;
-    border-top-left-radius: 9px;
-    margin: -8px;
-    height: 100vh;
+    width: 95%;
+    border: 35px solid rgb(103, 38, 207);
+    border-radius: 9px;
+    margin: -1px;
+    height: 0vh;
 }
 .abt {
     text-align: center;
