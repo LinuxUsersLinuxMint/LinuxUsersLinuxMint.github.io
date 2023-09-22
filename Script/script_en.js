@@ -1,2 +1,1 @@
 alert("Welcome to Development Phase 6 - Update The next Update will arrive on XXXXX XX , XXXX , XX:XX")
-alert("SECTION CLOSED!!! An update may be in the works for the section you are currently trying to enter...")
