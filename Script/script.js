@@ -1,2 +1,0 @@
-alert("Geliştirme Aşaması 6 - Güncellemesine Hoşgeldiniz Bir sonraki Güncellemenin geleceği Tarih XX XXXXX , XXXX , XX:XX")
-alert("Welcome to Development Phase 6 - Update The next Update will arrive on XXXXX XX , XXXX , XX:XX")
