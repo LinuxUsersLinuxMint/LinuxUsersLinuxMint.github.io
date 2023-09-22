@@ -7,42 +7,42 @@
     opacity: 0;
 }
 .logo {
-    margin: -80px 15px 30px 15px;
+    margin: -15px 15px 30px -23px;
 }
 .nm1 {
-    margin: -57px 0px -3px 49px;
+    margin: -57px 0px -3px 20px;
     font-family: Arial;
 }
 .nm2 {
-    margin: -18px 0px -3px 210px;
+    margin: -18px 0px -3px 183px;
     font-family: Arial;
 }
 .nm3 {
-    margin: -18px 0px -3px 266px;
+    margin: -18px 0px -3px 239px;
     font-family: Arial;
 }
 .nm4 {
-    margin: -18px 0px -3px 350px;
+    margin: -18px 0px -3px 325px;
     font-family: Arial;
 }
 .nm5 {
-    margin: -18px 0 -3px 445px;
+    margin: -18px 0 -3px 420px;
     font-family: Arial;
 }
 .nm6 {
-    margin: -18px 0 -3px 575px;
+    margin: -18px 0 -3px 550px;
     font-family: Arial;
 }
 .nm7 {
-    margin: -18px 0 -3px 730px;
+    margin: -18px 0 -3px 700px;
     font-family: Arial;
 }
 .nm8 {
-    margin: -18px 0 -3px 948px;
+    margin: -18px 0 -3px 915px;
     font-family: Arial;
 }
 .nm9 {
-    margin: -18px 0 -3px 1295px;
+    margin: -18px 0 -3px 1260px;
     font-family: Arial;
 }
 .home:link, .home:visited, .home:hover, .home:active {
