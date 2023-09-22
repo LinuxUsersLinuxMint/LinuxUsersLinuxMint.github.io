@@ -64,13 +64,14 @@
     font-family: Arial;
 }
 .abtcont {
-    width: 700px;
-    border-top: 350px solid rgb(103, 38, 207);
-    border-top-left-radius: 9px;
-    border-top-right-radius: 9px;
-    border-end-start-radius: 10px;
+    width: 275px;
+    border: 200px solid rgb(103, 38, 207);
+    border-radius: 9px;
     margin: 40px 0 -3px 320px;
-    height: 100px;
+    height: 0px;
+}
+.abtinfo {
+    margin: 150px 0 -3px -200px;
 }
 .abt-desk {
     text-align: center;
