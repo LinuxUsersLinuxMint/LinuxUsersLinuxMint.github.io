@@ -12,11 +12,11 @@
 <body class="body">
     <div class="navbar2">
         <img class="logo" src="https://avatars.githubusercontent.com/u/143949134?v=4" width="30" height="30">
-        <div class="nm1"><a class="home" href="index.html">LinuxUsersLinuxMint</a></div>
-        <div class="nm2"><a class="home" href="ABOUT/index.html">About</a></div>
-        <div class="nm3"><a class="home" href="ABOUT/indexdsk.html">About.dsk</a></div>
-        <div class="nm4"><a class="home" href="PROJECT/project.html" target="_blank">My projects</a></div>
-        <div class="nm5"><a class="home" href="PROJECT/projectdsk.html" target="_blank">My Projects.dsk</a></div>
+        <div class="nm1"><a class="home" href="index">LinuxUsersLinuxMint</a></div>
+        <div class="nm2"><a class="home" href="ABOUT/index">About</a></div>
+        <div class="nm3"><a class="home" href="ABOUT/indexdsk">About.dsk</a></div>
+        <div class="nm4"><a class="home" href="PROJECT/project" target="_blank">My projects</a></div>
+        <div class="nm5"><a class="home" href="PROJECT/projectdsk" target="_blank">My Projects.dsk</a></div>
         <div class="nm6"><a class="home" href="https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint" target="_blank">My Github Account</a></div>
         <div class="nm7"><a class="home" href="/whatsnew/whatsnew.txt" target="_blank">Innovations and Regulations</a></div>
         <div class="nm8"><a class="home" href="/ınnovationsweconsider/ıwcnew.txt" target="_blank">Innovations and Regulations We're Considering</a></div>

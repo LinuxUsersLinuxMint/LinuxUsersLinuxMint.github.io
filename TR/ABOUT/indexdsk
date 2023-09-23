@@ -12,10 +12,10 @@
     <div class="navbar2">
         <img class="logo" src="https://avatars.githubusercontent.com/u/143949134?v=4" width="30" height="30">
         <div class="nm1"><a class="home" href="/TR/">LinuxUsersLinuxMint</a></div>
-        <div class="nm2"><a class="home" href="index.html">Hakkımda</a></div>
-        <div class="nm3"><a class="home" href="indexdsk.html">Hakkımda.dsk</a></div>
-        <div class="nm4"><a class="home" href="/TR/PROJECT/project.html" target="_blank">Projelerim</a></div>
-        <div class="nm5"><a class="home" href="/TR/PROJECT/projectdsk.html">Projelerim.dsk</a></div>
+        <div class="nm2"><a class="home" href="index">Hakkımda</a></div>
+        <div class="nm3"><a class="home" href="indexdsk">Hakkımda.dsk</a></div>
+        <div class="nm4"><a class="home" href="/TR/PROJECT/project" target="_blank">Projelerim</a></div>
+        <div class="nm5"><a class="home" href="/TR/PROJECT/projectdsk">Projelerim.dsk</a></div>
         <div class="nm6"><a class="home" href="https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint" target="_blank">Github Hesabım</a></div>
         <div class="nm7"><a class="home" href="/whatsnew/whatsnew.txt" target="_blank">Yenilikler Ve Düzenlemeler</a></div>
         <div class="nm8"><a class="home" href="/ınnovationsweconsider/ıwcnew.txt" target="_blank">Düşündüğümüz Yenilikler Ve Düzenlemeler</a></div>
