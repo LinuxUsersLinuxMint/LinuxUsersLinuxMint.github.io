@@ -19,8 +19,7 @@
   * /style.css
   * /EN/style.css
 
-* Son Güncellenme Tarihi 23 Eylül , 2023 , 12:25:
- * HTML dosyaları güncellenmiştir.
+
 
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
@@ -42,6 +41,3 @@
  * HTML Links have been updated.
   * /style.css
   * /EN/style.css
-
-* Last Updated on September 23, 2023, 12:25:
- * HTML Files have been updated.
