@@ -45,6 +45,10 @@
     margin: -18px 0 -3px 1260px;
     font-family: Arial;
 }
+.nm10 {
+    margin: 5px 0 -3px 21px;
+    font-family: Arial;
+}
 .home:link, .home:visited, .home:hover, .home:active {
     color: rgb(151, 31, 207);
     text-decoration: none;
