@@ -19,6 +19,14 @@
   * /style.css
   * /EN/style.css
 
+* Son Güncelleme Tarihi 24 Eylül , 2023 , 18:14:
+ * Duyurular Bölümü Eklenmiştir.
+ * Duyurular Bölümünde Görebilecekleriniz.
+  * Yeni Güncelleme Haberi
+  * Hatırlatmalar
+  * Düzenlemeler
+  * Ve Sona eren değişiklikler
+
 
 
 * Last Updated Date: 17 September , 2023 , 18:55:
@@ -41,3 +49,11 @@
  * HTML Links have been updated.
   * /style.css
   * /EN/style.css
+
+* Last Updated on September 24, 2023, 18:14:
+ * Announcements Section has been added.
+ * What You Can See in the Announcements Section.
+  * New Update News
+  * Reminders
+  * Regulations
+  * And Ended changes
