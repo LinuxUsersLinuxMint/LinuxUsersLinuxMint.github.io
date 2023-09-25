@@ -23,6 +23,7 @@
  * Duyurular Bölümü Eklenmiştir.
  * Duyurular Bölümünde Görebilecekleriniz.
   * Yeni Güncelleme Haberi
+  * Bakım Bildirimi
   * Hatırlatmalar
   * Düzenlemeler
   * Ve Sona eren değişiklikler
@@ -54,6 +55,7 @@
  * Announcements Section has been added.
  * What You Can See in the Announcements Section.
   * New Update News
+  * Maintenance Notification
   * Reminders
   * Regulations
   * And Ended changes
