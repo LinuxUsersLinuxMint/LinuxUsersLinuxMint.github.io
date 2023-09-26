@@ -23,8 +23,3 @@ September 6, 2023, 18:36
 
 * We are considering defining a language for our website and making translations.
 STATUS=UPDATE UPLOADED (updated on September 10, 2023, 15:53)
-
-September 21, 2023, 17:45:
-
-* We are working on Fully Rounding (border-radius) of Objects on the Website.
-STATUS=UPDATE UPLOADED (updated on September 22, 2023, 18:23)
