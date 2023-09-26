@@ -5,11 +5,6 @@ Gelecekte Düşündüğümüz Yenilikler ve Düzenlemeler:
 * Web Sitemiz için Sürekli Güncellenen bir önizleme sunucusu oluşturmayı düşünüyoruz 
 DURUM=EKLENMEDI (güncellenme tarihi 5 Eylül , 2023 , 20:30)
 
-6 Eylül , 2023 , 18:36
-
-* Web sitemiz için dil tanımlanıp çeviri yapılmasını düşünüyoruz.
-DURUM=GUNCELLEME YUKLENDI (güncellenme tarihi 10 Eylül , 2023 , 15:53)
-
 
 
 Innovations and Regulations We Consider in the Future:
@@ -18,8 +13,3 @@ September 4, 2023, 18:15
 
 * We are considering creating a Continuously Updated preview server for our Website
 STATUS=NOT ADDED (updated September 5, 2023, 20:30)
-
-September 6, 2023, 18:36
-
-* We are considering defining a language for our website and making translations.
-STATUS=UPDATE UPLOADED (updated on September 10, 2023, 15:53)
