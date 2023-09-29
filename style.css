@@ -9,50 +9,48 @@
 .logo {
     margin: -15px 15px 30px -23px;
 }
+.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8, .nm9, .nm10 {
+    font-family: Arial;
+}
 .nm1 {
     margin: -57px 0px -3px 20px;
-    font-family: Arial;
 }
 .nm2 {
     margin: -18px 0px -3px 183px;
-    font-family: Arial;
 }
 .nm3 {
     margin: -18px 0px -3px 270px;
-    font-family: Arial;
 }
 .nm4 {
     margin: -18px 0px -3px 387px;
-    font-family: Arial;
 }
 .nm5 {
     margin: -18px 0 -3px 475px;
-    font-family: Arial;
 }
 .nm6 {
     margin: -18px 0 -3px 593px;
-    font-family: Arial;
 }
 .nm7 {
     margin: -18px 0 -3px 725px;
-    font-family: Arial;
 }
 .nm8 {
     margin: -18px 0 -3px 930px;
-    font-family: Arial;
 }
 .nm9  {
     margin: -18px 0 -3px 1250px;
-    font-family: Arial;
 }
 .nm10 {
     margin: 5px 0 -3px 21px;
-    font-family: Arial;
 }
 .home:link, .home:visited, .home:hover, .home:active {
     color: rgb(151, 31, 207);
     text-decoration: none;
-
+}
+.abt, .abt-desk {
+    text-align: center;
+    margin: -px 0 -3px;
+    color: rgb(103, 38, 207);
+    font-family: Arial;
 }
 .navbar2 {
     width: 95%;
@@ -60,12 +58,6 @@
     border-radius: 9px;
     margin: -1px;
     height: 0vh;
-}
-.abt {
-    text-align: center;
-    margin: -px 0 -3px;
-    color: rgb(103, 38, 207);
-    font-family: Arial;
 }
 .abtcont {
     width: 275px;
@@ -77,12 +69,6 @@
 .abtinfo {
     margin: 150px 0 -3px -200px;
 }
-.abt-desk {
-    text-align: center;
-    margin: -px 0 -3px;
-    color: rgb(103, 38, 207);
-    font-family: Arial;
-}
 .abtcont-desk {
     width: 700px;
     border-top: 350px solid rgb(103, 38, 207);
@@ -90,27 +76,14 @@
     height: 100px;
     border-radius: 9px 9px;
 }
+.gthbabt, .gthbabt, .prj, .frks {
+    font-family: Arial;
+    color: rgb(151, 31, 207);
+    font-size: 20px;
+}
+.gthbabt, .prj, .frks {
+    margin: 8px 0 -3px 20px;
+}
 .gthbacc {
     margin: -330px 0 -3px 20px;
-    font-family: Arial;
-    color: rgb(151, 31, 207);
-    font-size: 20px;
-}
-.gthbabt {
-    margin: 8px 0 -3px 20px;
-    font-family: Arial;
-    color: rgb(151, 31, 207);
-    font-size: 20px;
-}
-.prj {
-    margin: 8px 0 -3px 20px;
-    font-family: Arial;
-    color: rgb(151, 31, 207);
-    font-size: 20px;
-}
-.frks {
-    margin: 8px 0 -3px 20px;
-    font-family: Arial;
-    color: rgb(151, 31, 207);
-    font-size: 20px;
 }

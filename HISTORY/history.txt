@@ -31,8 +31,13 @@
 * Son Güncelleme Tarihi 26 Eylül, 2023 , 20:42:
  * /innovationsweconsider/ıwcnew.txt bölümünde gerçekleştirilmiş olan yeniliklerin listesi silinmiştir.
 
-* Son Güncelleme 28 Eylül , 2023 , 23:09:
+* Son Güncelleme Tarihi 28 Eylül , 2023 , 23:09:
  * Web Sitemize Python eklenmiştir.
+
+* Son Güncellenme Tarihi 29 Eylül , 2023, 18:11:
+ * css kodları optimize edilmiştir.
+
+
 
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
@@ -68,4 +73,7 @@
  * The list of innovations implemented in the /innovationsweconsider/ıwcnew.txt section has been deleted.
 
 * Last Updated on September 28, 2023, 23:09:
- * Python has been added to our website. 
+ * Python has been added to our website.
+
+* Last Updated on September 29, 2023, 18:11:
+ * css codes have been optimized.
