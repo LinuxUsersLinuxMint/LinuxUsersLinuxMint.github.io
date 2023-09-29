@@ -37,7 +37,11 @@
 * Son Güncellenme Tarihi 29 Eylül , 2023, 18:11:
  * css kodları optimize edilmiştir.
 
-
+* Son Güncellenme Tarihi 29 Eylül , 2023 , 23:47:
+ * Ntlite kullanılarak Düzenlenmiş Resmi Olmayan bir Windows 10 Edisyonu Üzerinde Çalışıyoruz.
+NOT: RESMI Bir edisyon değildir resmi edisyonlar(Home,Pro,SL,Enterprise) ile karıştırılmamalıdır.
+NOT: Eğer Windows 10'u yükleyecekseniz resmi sayfasından yüklemeniz tavsiye edilir ancak isteğe bağlı resmi olmayan edisyonlarıda yüklemeyi tercih edebilirsiniz.
+NOT: Bu edisyon Ticari Amaç/Ticari amaç düşüncesi için hazırlanmamıştır. Ticari Amaç için kullanılamaz. (Ticari Kullanıma Uygun Değildir.)
 
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
@@ -77,3 +81,9 @@
 
 * Last Updated on September 29, 2023, 18:11:
  * css codes have been optimized.
+
+* Last Updated on September 29, 2023, 23:47:
+ * We are Working on an Unofficial Windows 10 Edition Edited using Ntlite.
+NOTE: It is not an OFFICIAL edition and should not be confused with official editions (Home, Pro, SL, Enterprise).
+NOTE: If you are going to install Windows 10, it is recommended that you install it from the official page, but you can also choose to install optional unofficial editions.
+NOTE: This edition has not been prepared for Commercial Purpose. It cannot be used for commercial purposes. (Not Suitable for Commercial Use.)
