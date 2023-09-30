@@ -44,6 +44,14 @@ NOT: Eğer Windows 10'u yükleyecekseniz resmi sayfasından yüklemeniz tavsiye 
 NOT: Bu edisyon Ticari Amaç/Ticari amaç düşüncesi için hazırlanmamıştır. Ticari Amaç için kullanılamaz. (Ticari Kullanıma Uygun Değildir.)
  * Sadece Home Sürümünü İçerir.
 
+* Son Güncellenme Tarihi 30 Eylül , 2023 , 17:54:
+ * NTLite İle Düzenlenen Resmi Olmayan Windows 10 Edisyonu Bitmiştir.
+ * 10/01/2023 Tarihinde Web Sitesinde İndirebilirsiniz (linuxuserslinuxmint.github.io)
+ İşte Bazı Bilgiler:
+ Ad: Win10_LX
+ Sürüm: Windows_2023_LX
+ Oluşturan: LinuxUsersLinuxMint
+
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
   * File Directories:
@@ -89,3 +97,11 @@ NOTE: It is not an OFFICIAL edition and should not be confused with official edi
 NOTE: If you are going to install Windows 10, it is recommended that you install it from the official page, but you can also choose to install optional unofficial editions.
 NOTE: This edition has not been prepared for Commercial Purpose. It cannot be used for commercial purposes. (Not Suitable for Commercial Use.)
  * Includes Home Edition Only.
+
+* Last Updated on September 30, 2023, 17:54:
+ * Unofficial Windows 10 Edition Edited with NTLite is Finished.
+ * You can download it on the website on 10/01/2023 (linuxuserslinuxmint.github.io)
+ Here is Some Information:
+ Name: Win10_LX
+ Version: Windows_2023_LX
+ Created by: LinuxUsersLinuxMint
