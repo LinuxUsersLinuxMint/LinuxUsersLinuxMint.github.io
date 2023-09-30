@@ -52,6 +52,9 @@ NOT: Bu edisyon Ticari Amaç/Ticari amaç düşüncesi için hazırlanmamıştı
  Sürüm: Windows_2023_LX
  Oluşturan: LinuxUsersLinuxMint
 
+* Son Güncelleme Tarihi 30 Eylül , 2023 , 20:59:
+ * Bakım Bitiş Tarihi erkene Çekilmiştir Bitiş Tarihi 09/30/2023 20:59
+
 * Last Updated Date: 17 September , 2023 , 18:55:
  * PROJECT Sections have been Updated:
   * File Directories:
@@ -105,3 +108,6 @@ NOTE: This edition has not been prepared for Commercial Purpose. It cannot be us
  Name: Win10_LX
  Version: Windows_2023_LX
  Created by: LinuxUsersLinuxMint
+
+* Last Updated on September 30, 2023, 20:59:
+ * Maintenance Completion Date has been brought forward. Completion Date is 09/30/2023 20:59
