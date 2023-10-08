@@ -5,7 +5,10 @@ Gelecekte Düşündüğümüz Yenilikler ve Düzenlemeler:
 * Web Sitemiz için Sürekli Güncellenen bir önizleme sunucusu oluşturmayı düşünüyoruz 
 DURUM=EKLENMEDI (güncellenme tarihi 5 Eylül , 2023 , 20:30)
 
+8 Ekim , 2023 , 14:57:
 
+* Projelerim.dsk, Hakkımda.dsk bölümlerini kaldırmak üzere çalışıyorum.
+DURUM=EKLENMEDI (Güncellenme tarihi 8 Ekim , 2023 , 14:57)
 
 Innovations and Regulations We Consider in the Future:
 
@@ -13,3 +16,8 @@ September 4, 2023, 18:15
 
 * We are considering creating a Continuously Updated preview server for our Website
 STATUS=NOT ADDED (updated September 5, 2023, 20:30)
+
+October 8, 2023, 14:57:
+
+* I am working on removing MyProjects.dsk and About Me.dsk sections.
+STATUS=NOT ADDED (Updated on October 8, 2023, 14:57)
