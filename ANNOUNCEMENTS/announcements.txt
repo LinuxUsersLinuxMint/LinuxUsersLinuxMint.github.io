@@ -1,5 +1,5 @@
-BAKIM SONU BİLDİRİMİ:
- * 09/27/2023 - 10/01/2023 27 Eylül Çarşamba Saat: 17:30 - 01 Ekim Pazar Saat: 22:30  Tarihleri arası Olan Bakım 09/30/2023 20:59 Tarihinde Kapatılmıştır.
+BAKIM BİLDİRİMİ:
+ * 10/08/2023 - 10/13/2023 08 Ekim Pazar Saat: 17:30 - 13 Ekim Pazar Saat: 22:30  Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.
 
-END OF MAINTENANCE NOTIFICATION:
-* The maintenance between 09/27/2023 - 10/01/2023, Wednesday, September 27, Time: 17:30 - Sunday, October 01, Time: 22:30, was closed on 09/30/2023, 20:59.
+MAINTENANCE NOTIFICATION:
+* The Website has been closed due to maintenance between 10/08/2023 - 10/13/2023, Sunday, October 08, Time: 17:30 - Sunday, October 13, Time: 22:30.
