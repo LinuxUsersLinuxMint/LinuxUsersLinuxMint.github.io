@@ -1,0 +1,23 @@
+-Privacy and Security Agreement-
+Author: LinuxUsersLinuxMint
+Agreement Content: For all services and Repositories (projects) available in the LinuxUsersLinuxMint github account.
+Created Date: 10/20/2023 - 23:12
+Contract Location: linuxuserslinuxmint.github.io/Contracts/privacyandsecutryagreement/tr/privacyandsecutryagreement
+
+                                                -Privacy and Security Disclosure-
+* This privacy and security agreement is for the LinuxUsersLinuxMint website, services and projects. It explains what kind of policy is followed for users.
+
+                                                -Security-
+* LinuxUsersLinuxMint respects Privacy and does not collect or solicit data from users.
+* However, LinuxUsersLinuxMint Software has the right to save software data to a file.
+* Saved files will not be sent/shared to LinuxUsersLinuxMint or 3rd Party software and applications.
+
+                                                -Security-
+* LinuxUsersLinuxMint software and services care about security and respect user privacy and do not request any data.
+* LinuxUsersLinuxMint Software is open source and safe.
+* LinuxUsersLinuxMint software has the right to compile and distribute the user's software itself.
+* LinuxUsersLinuxMint Software does not collect or solicit data from users.
+
+                                                -Rejecting the Contract-
+* If you reject this "Privacy and Security Agreement". LinuxUsersUsing LinuxMint Software and Services
+You must leave and remove one copy of the software from your Device/Computer and not use it.

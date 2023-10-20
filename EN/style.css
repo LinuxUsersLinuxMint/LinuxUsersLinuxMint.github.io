@@ -9,7 +9,7 @@
 .logo {
     margin: -15px 15px 30px -23px;
 }
-.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8, .nm9, .nm10 {
+.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8, .nm9, .nm10, .nm11 {
     font-family: Arial;
 }
 .nm1 {
@@ -41,6 +41,9 @@
 }
 .nm10 {
     margin: 5px 0 -3px 21px;
+}
+.nm11 {
+    margin: -18px 0 -3px 150px;
 }
 .home:link, .home:visited, .home:hover, .home:active {
     color: rgb(151, 31, 207);

@@ -1,0 +1,23 @@
+                                                -Gizlilik Ve Güvenlik Sözleşmesi-
+Yazar: LinuxUsersLinuxMint
+Sözleşme İçeriği: LinuxUsersLinuxMint github hesabında bulunan tüm hizmetler ve Depolar(projeler) içindir.
+Oluşturulma Tarihi: 10/20/2023 - 23:12
+Sözleşme Konumu: linuxuserslinuxmint.github.io/Contracts/privacyandsecutryagreement/tr/privacyandsecutryagreement
+
+                                                -Gizlilik Ve Güvenlik Açıklaması-
+* Bu gizlilik ve Güvenlik sözleşmesi, LinuxUsersLinuxMint web sitesi, hizmetleri ve projeleri İçin. Kullanıcılar için nasıl bir politika izlendiğini açıklamaktadır.
+
+                                                -Gizlilik-
+* LinuxUsersLinuxMint, Gizliliğe saygı duyar ve kullanıcılardan veri toplama veya bunları talep etmez.
+* Ancak LinuxUsersLinuxMint Yazılımları yazılım verilerini bir dosyaya kaydetme hakkına sahiptir.
+* Kaydedilen dosyalar LinuxUsersLinuxMint'e veya 3.Parti yazılımlar ve uygulamalara gönderilmeyecektir/paylaşılmayacaktır.
+
+                                                -Güvenlik-
+* LinuxUsersLinuxMint yazılımları ve hizmetleri güvenliğe önem verir Ve kullanıcı gizliliğine saygı duyup herhangi bir veri talep etmez.
+* LinuxUsersLinuxMint Yazılımları Açık kaynak kod olmakla beraber güvenlidir.
+* LinuxUsersLinuxMint yazılımları kullanıcının yazılımı kendisini derleyip dağıtma hakkına sahiptir.
+* LinuxUsersLinuxMint Yazılımları kullanıcılardan veri toplama veya bunları talep etmez.
+
+                                                -Sözleşmeyi Reddetmek-
+* Eğer Bu "Gizlilik Ve Güvenlik Sözleşmesi"'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını Ve hizmetlerini kullanmayı
+bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız Ve Kullanmamalısınız.
