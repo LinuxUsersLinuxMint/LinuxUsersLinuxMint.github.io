@@ -56,3 +56,11 @@ NOTE: This edition has not been prepared for Commercial Purpose. It cannot be us
 * Contracts Section has been added. (Privacy and Security Agreement / Terms of Service (Not available))
 * history.txt is divided into two: history_tr.txt and history_en.txt.
 * Website *.css file has been edited.
+
+* Last Updated on October 22, 2023, 23:40:
+ * /CSS/TR/style.css ".nm8" has been removed.
+ there is | tr = **;
+ * /EN/style.css and /TR/style.css have been moved to /CSS/**/style.css.
+ * The /Script/ folder has been changed to /JS/.
+ * lang.js has been updated. (Although the language is correct, the language is not in your region error) has been resolved.
+ * /JS/script_tr.js and /JS/script_en.js files have been removed.

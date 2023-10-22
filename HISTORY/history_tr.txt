@@ -56,3 +56,11 @@ NOT: Bu edisyon Ticari Amaç/Ticari amaç düşüncesi için hazırlanmamıştı
 * Sözleşmeler Bölümü eklenmiştir. (Gizlilik Ve Güvenlik Sözleşmesi / Hizmet Şartları(Mevcut değil))
 * history.txt, history_tr.txt history_en.txt olarak ikiye ayrılmıştır.
 * Web Sitesi *.css dosyası düzenlenmiştir.
+
+* Son Güncelleme Tarihi 22 Ekim , 2023 , 23:40:
+ * /CSS/TR/style.css ".nm8" kaldırılmıştır.
+ var en | tr = **;
+ * /EN/style.css ve /TR/style.css /CSS/**/style.css konumuna taşınmıştır.
+ * /Script/ klasörü /JS/ olarak değiştirilmiştir.
+ * lang.js güncellenmiştir. (dil doğru olmasına rağmen dil bölgenizde değil hatası) çözülmüştür.
+ * /JS/script_tr.js ve /JS/script_en.js dosyaları kaldırılmıştır.
