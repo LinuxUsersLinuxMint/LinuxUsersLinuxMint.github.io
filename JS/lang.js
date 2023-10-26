@@ -10,7 +10,7 @@ else if (lang == "en-EN" | lang == "en" | lang == "en_US" | lang == "en-US")
 else if (lang == "ıl-IL" | lang == "ıl" | lang == "ıl_IL" | lang == "ıl-IL")
 {
     document.location.href = "/index.html"; // האתר בלולאה והופך ללא פעיל.
-    // עקב המלחמות הנוכחיות, הוחלט כי LinuxUsersLinux Mint לא תספק שירות באופן קבוע למדינה הנקראת "ישראל". (צור תוכנה, אל תילחם.)
+    // עקב המלחמות הנוכחיות, הוחלט כי LinuxUsersLinuxMint לא תספק שירות באופן קבוע למדינה הנקראת "ישראל". (צור תוכנה, אל תילחם.)
     // החלטה זו היא קבועה ולא תשונה.
 }
 else if (lang != "en-EN" | lang != "en" | lang != "en_US" | lang != "en-US" | lang != "tr-TR" | lang != "tr" | lang != "tr_TR")
