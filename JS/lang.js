@@ -9,7 +9,7 @@ else if (lang == "en-EN" | lang == "en" | lang == "en_US" | lang == "en-US")
 }
 else if (lang == "ıl-IL" | lang == "ıl" | lang == "ıl_IL" | lang == "ıl-IL")
 {
-    document.location.href = "/index.html";
+    document.location.href = "/index.html"; // האתר בלולאה והופך ללא פעיל.
     // עד שהמלחמה הזו תיפסק. בתור LinuxUsersLinuxMint, הוחלט שלא לשרת את המדינה שנקראת "ישראל". (לייצר תוכנה, לא מלחמה.)
 }
 else if (lang != "en-EN" | lang != "en" | lang != "en_US" | lang != "en-US" | lang != "tr-TR" | lang != "tr" | lang != "tr_TR")
