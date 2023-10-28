@@ -10,8 +10,16 @@ END OF MAINTENANCE NOTIFICATION:
  * "ISRAIL" adlı ülke için lang.js dosyasında döngü güncellemesi yapılmıştır. (While döngüsü)
   * Bu web sitesine "Israil" konumundan gelen girişleri bir döngüye alır ve devamlı olarak "/index.html" dosyasına gönderir.
 
+* Önemli bir güvenlik açığının düzeltilmesi:
+ * "Israil" adlı ülke/konumundan gelen girişlere izin veren bir güvenlik açığı düzeltildi.
+ * lang.js / lang_tr.js / lang_en.js dosyasındaki güvenlik açıkları düzeltildi.
+
 * Website Update Notification:
  * A .css update will be made for /TR/ and /EN/. (There will be no new theme or change.):
   * It will be valid for ABOUT and PROJECT sections. *.css editing.
  * A loop update has been made in the lang.js file for the country named "ISRAIL". (While loop)
   * This website loops the entries coming from "Israel" and continuously sends them to the "/index.html" file.
+
+* Fixing an important security vulnerability:
+ * Fixed a vulnerability that allowed logins from the country/location named "Israel".
+ * Fixed vulnerabilities in lang.js / lang_tr.js / lang_en.js.
