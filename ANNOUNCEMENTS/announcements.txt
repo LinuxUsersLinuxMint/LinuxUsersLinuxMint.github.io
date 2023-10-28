@@ -3,3 +3,15 @@ BAKIM SONU BİLDİRİMİ:
 
 END OF MAINTENANCE NOTIFICATION:
 * The maintenance between 10/08/2023 - 10/13/2023 08 October Sunday Time: 17:30 - 13 October Sunday Time: 22:30 was terminated on 10/13/2023 - 23:22.
+
+* Web Site Güncelleme Bildirimi:
+ * /TR/ ve /EN/ için bir .css güncellemesi yapılıcaktır. (Yeni bir tema veya değişiklik olmayacaktır.):
+  * ABOUT ve PROJECT bölümleri için geçerli olucaktır. *.css düzenlemesi.
+ * "ISRAIL" adlı ülke için lang.js dosyasında döngü güncellemesi yapılmıştır. (While döngüsü)
+  * Bu web sitesine "Israil" konumundan gelen girişleri bir döngüye alır ve devamlı olarak "/index.html" dosyasına gönderir.
+
+* Website Update Notification:
+ * A .css update will be made for /TR/ and /EN/. (There will be no new theme or change.):
+  * It will be valid for ABOUT and PROJECT sections. *.css editing.
+ * A loop update has been made in the lang.js file for the country named "ISRAIL". (While loop)
+  * This website loops the entries coming from "Israel" and continuously sends them to the "/index.html" file.
