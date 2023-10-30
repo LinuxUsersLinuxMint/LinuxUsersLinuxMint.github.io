@@ -14,7 +14,7 @@ software_addr_type=git
 software_addr=https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint.github.io
 
 [LinuxUsersLinuxMint_User_Config]
-cfg_super_usr_status=1
+cfg_super_usr_status=0
 cfg_super_usr_com=sudo_su
 
 [LinuxUsersLinuxMint_LICENCE_Info]
