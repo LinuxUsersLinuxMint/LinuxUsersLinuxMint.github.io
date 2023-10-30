@@ -14,6 +14,10 @@ END OF MAINTENANCE NOTIFICATION:
  * "Israil" adlı ülke/konumundan gelen girişlere izin veren bir güvenlik açığı düzeltildi.
  * lang.js / lang_tr.js / lang_en.js dosyasındaki güvenlik açıkları düzeltildi.
 
+* Web sitesi için dosya uzantısı eklemesi:
+ * Web sitesi için PyTerm'de kullanılan "*.cfgpt" dosya uzantısı eklenmiştir.
+ PyTerm link: https://github.com/LinuxUsersLinuxMint/PyTerm
+
 * Website Update Notification:
  * A .css update will be made for /TR/ and /EN/. (There will be no new theme or change.):
   * It will be valid for ABOUT and PROJECT sections. *.css editing.
@@ -23,3 +27,7 @@ END OF MAINTENANCE NOTIFICATION:
 * Fixing an important security vulnerability:
  * Fixed a vulnerability that allowed logins from the country/location named "Israel".
  * Fixed vulnerabilities in lang.js / lang_tr.js / lang_en.js.
+
+* Adding file extension for website:
+ * The "*.cfgpt" file extension used in PyTerm has been added for the website.
+ PyTerm link: https://github.com/LinuxUsersLinuxMint/PyTerm

@@ -72,3 +72,9 @@ NOTE: This edition has not been prepared for Commercial Purpose. It cannot be us
    * If location: tr and the entered page is in /EN/*.*, it will send the user to /TR/*.*.
    * If location: en and the entered page is in /TR/*.*, it will send the user to /EN/*.*.
    * This process increases security to prevent access to the website from the country/location named "Israel".
+
+* Last Updated on October 30, 2023, 15:45:
+ * ".cfgpt" file extension has been added.
+ * /software.cfgpt file extension has been added to the link. https://linuxuserslinuxmint.github.io/software.cfgpt
+ * A version system has been added to our website. "Lx_WEB_0a3",
+ * You can download our website via PyTerm. (To contribute but you cannot copy this website.)

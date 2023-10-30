@@ -72,3 +72,9 @@ NOT: Bu edisyon Ticari Amaç/Ticari amaç düşüncesi için hazırlanmamıştı
    * konum: tr ise ve girilen sayfa /EN/*.* konumunda ise kullanıcıyı /TR/*.* konumuna gönderir.
    * konum: en ise ve girilen sayfa /TR/*.* konumunda ise kullanıcıyı /EN/*.* konumuna gönderir.
    * Bu işlem web sitesinin "Israil" adlı ülkeden/konumundan girişleri engellemek adına güvenliği artırır.
+
+* Son Güncelleme Tarihi 30 Ekim , 2023 , 15:45:
+ * ".cfgpt" dosya uzantısı eklenmiştir.
+ * /software.cfgpt dosya uzantısı eklenmiştir link. https://linuxuserslinuxmint.github.io/software.cfgpt
+ * Web sitemize version sistemi gelmiştir. "Lx_WEB_0a3",
+ * Web sitemizi PyTerm aracılığıyla indirebilirsiniz. (Katkıda bulunmak için ancak bu web sitesini kopyalayamazsınız.) 
