@@ -2,7 +2,7 @@
 Author: LinuxUsersLinuxMint
 Agreement Content: For all services and Repositories (projects) available in the LinuxUsersLinuxMint github account.
 Created Date: 10/20/2023 - 23:12
-Contract Location: linuxuserslinuxmint.github.io/Contracts/privacyandsecutryagreement/tr/privacyandsecutryagreement
+Contract Location: linuxuserslinuxmint.github.io/Contracts/privacyandsecutryagreement/en/privacyandsecutryagreement
 
                                                 -Privacy and Security Disclosure-
 * This privacy and security agreement is for the LinuxUsersLinuxMint website, services and projects. It explains what kind of policy is followed for users.
