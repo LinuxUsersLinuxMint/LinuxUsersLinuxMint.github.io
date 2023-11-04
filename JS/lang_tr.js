@@ -2,10 +2,11 @@ var lang =  navigator.language || navigator.userLanguage;
 if (lang == "tr-TR" | lang == "tr" | lang == "tr_TR") 
 {
     console.log("[linuxuserslinuxmint.github.io] USER_LOCATION=tr_TR");
+    document.location.href = "/index.html";
 }
 else if (lang == "en-EN" | lang == "en" | lang == "en_US" | lang == "en-US")
 {
-    document.location.href = "/EN/index.html";
+    document.location.href = "/index.html";
 }
 else if (lang != "tr-TR" | lang != "tr" | lang != "tr_TR")
 {
