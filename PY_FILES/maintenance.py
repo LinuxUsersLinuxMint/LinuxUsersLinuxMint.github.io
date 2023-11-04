@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-display("11/04/2023 - 11/04/2023 04 Kasım Cumartesi Saat: 17:16 - 04 Kasım Cumartesi Saat: 00:00  Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.")
+display("10/08/2023 - 10/13/2023 08 Ekim Pazar Saat: 17:30 - 13 Ekim Pazar Saat: 22:30  Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.")

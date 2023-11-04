@@ -77,4 +77,9 @@ NOT: Bu edisyon Ticari Amaç/Ticari amaç düşüncesi için hazırlanmamıştı
  * ".cfgpt" dosya uzantısı eklenmiştir.
  * /software.cfgpt dosya uzantısı eklenmiştir link. https://linuxuserslinuxmint.github.io/software.cfgpt
  * Web sitemize version sistemi gelmiştir. "Lx_WEB_0a3",
- * Web sitemizi PyTerm aracılığıyla indirebilirsiniz. (Katkıda bulunmak için ancak bu web sitesini kopyalayamazsınız.) 
+ * Web sitemizi PyTerm aracılığıyla indirebilirsiniz. (Katkıda bulunmak için ancak bu web sitesini kopyalayamazsınız.)
+
+* Son Güncelleme Tarihi 4 Kasım , 2023 , 11:08:
+ * "Israil" adlı ülkenin web sitesine girişini engelleyen güvenlik sistemi geliştirilmiştir.
+ * Sözleşmeler/*.* yolu altındaki dosyalar .html dosyasına çevrilmiştir.
+ * Projelerim kısmına tüm proje linkleri eklenmiştir.

@@ -1,0 +1,11 @@
+body {
+    background: rgb(34, 33, 33);
+    font-family: Arial;
+}
+.privacyandsecutrytitle {
+    color: white;
+    text-align: center;
+}
+.info {
+    color: white;
+}

@@ -78,3 +78,8 @@ NOTE: This edition has not been prepared for Commercial Purpose. It cannot be us
  * /software.cfgpt file extension has been added to the link. https://linuxuserslinuxmint.github.io/software.cfgpt
  * A version system has been added to our website. "Lx_WEB_0a3",
  * You can download our website via PyTerm. (To contribute but you cannot copy this website.)
+
+* Last Updated on November 4, 2023, 11:08:
+ * A security system has been developed that prevents access to the website of the country named "Israel".
+ * Files under Contracts/*.* path have been converted to .html files.
+ * All project links have been added to the My Projects section.

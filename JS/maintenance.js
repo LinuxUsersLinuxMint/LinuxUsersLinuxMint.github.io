@@ -1,2 +1,2 @@
-alert("BAKIM BİLDİRİMİ: 11/04/2023 - 11/04/2023 04 Kasım Cumartesi Saat: 17:16 - 04 Kasım Cumartesi Saat: 00:00  Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.")
-alert("MAINTENANCE NOTIFICATION: The Website Has Been Closed Due to Maintenance Between 11/04/2023 - 11/04/2023 04 November Saturday Time: 17:16 - 04 November Saturday Time: 00:00.")
+alert("BAKIM BİLDİRİMİ: 11/04/2023 - 11/04/2023 04 Kasım Cumartesi Saat: 17:16 - 04 Kasım Cumartesi Saat: 00:00 Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.");
+alert("MAINTENANCE NOTICE: The Website Has Been Closed Due to Maintenance Between 11/04/2023 - 11/04/2023 04 November Saturday Time: 17:16 - 04 November Saturday Time: 00:00.");
