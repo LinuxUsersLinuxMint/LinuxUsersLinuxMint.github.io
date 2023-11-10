@@ -1,0 +1,74 @@
+* Last Updated Date: 17 September , 2023 , 18:55:
+ * PROJECT Sections have been Updated:
+  * File Directories:
+   * /EN/PROJECT/*.*
+   * /TR/PROJECT/*.*
+
+* Last Updated on September 17, 2023, 21:03:
+ * script.js is divided into two: script_tr, script_en
+
+* Last Updated on September 19, 2023, 19:07:
+ * Profile picture and background have been changed.
+  * Navbar color is adapted to the theme.
+
+* Last Updated on September 21, 2023, 18:07:
+ * /EN/style.css file has been updated.
+
+* Last Updated on September 21, 2023, 18:40:
+ * HTML Links have been updated.
+  * /style.css
+  * /EN/style.css
+
+* Last Updated on September 24, 2023, 18:14:
+ * Announcements Section has been added.
+ * What You Can See in the Announcements Section.
+  * New Update News
+  * Maintenance Notification
+  * Reminders
+  * Regulations
+  * And Ended changes
+
+* Last Updated on September 26, 2023, 20:42:
+ * The list of innovations implemented in the /innovationsweconsider/ıwcnew.txt section has been deleted.
+
+* Last Updated on September 28, 2023, 23:09:
+ * Python has been added to our website.
+
+* Last Updated on September 29, 2023, 18:11:
+ * css codes have been optimized.
+
+* Last Updated on September 29, 2023, 23:47:
+ * We are Working on an Unofficial Windows 10 Edition Edited using Ntlite.
+NOTE: It is not an OFFICIAL edition and should not be confused with official editions (Home, Pro, SL, Enterprise).
+NOTE: If you are going to install Windows 10, it is recommended that you install it from the official page, but you can also choose to install optional unofficial editions.
+NOTE: This edition has not been prepared for Commercial Purpose. It cannot be used for commercial purposes. (Not Suitable for Commercial Use.)
+ * Includes Home Edition Only.
+
+* Last Updated on September 30, 2023, 17:54:
+ * Unofficial Windows 10 Edition Edited with NTLite is Finished.
+ * You can download it on the website on 10/01/2023 (linuxuserslinuxmint.github.io)
+ Here is Some Information:
+ Name: Win10_LX
+ Version: Windows_2023_LX
+ Created by: LinuxUsersLinuxMint (It was postponed due to some problems.)
+
+* Last Update Date: October 20, 2023, 23:40:
+* Contracts Section has been added. (Privacy and Security Agreement / Terms of Service (Not available))
+* history.txt is divided into two: history_tr.txt and history_en.txt.
+* Website *.css file has been edited.
+
+* Last Updated on October 22, 2023, 23:40:
+ * /CSS/TR/style.css ".nm8" has been removed.
+ there is | tr = **;
+ * /EN/style.css and /TR/style.css have been moved to /CSS/**/style.css.
+ * The /Script/ folder has been changed to /JS/.
+ * lang.js has been updated. (Although the language is correct, the language is not in your region error) has been resolved.
+ * /JS/script_tr.js and /JS/script_en.js files have been removed.
+
+* Last Updated on October 28, 2023, 16:52:
+ * Improves security to block access to the website for the country named "Israel".
+ * lang_tr.js / lang_en.js files have been created. (If the location is not correct, it will redirect to the TR or EN page):
+  Example:
+   * If location: tr and the entered page is in /EN/*.*, it will send the user to /TR/*.*.
+   * If location: en and the entered page is in /TR/*.*, it will send the user to /EN/*.*.
+   * This process increases security to prevent access to the website from the country/location named "Israel".

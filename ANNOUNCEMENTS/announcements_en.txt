@@ -1,6 +1,3 @@
-END OF MAINTENANCE NOTIFICATION:
-* The maintenance between 11/04/2023 - 11/04/2023 04 November Saturday Time: 17:16 - 04 November Saturday Time: 00:00 was terminated on 11/04/2023 - 00:00.
-
 * Website Update Notification:
  * A .css update will be made for /TR/ and /EN/. (There will be no new theme or change.):
   * It will be valid for ABOUT and PROJECT sections. *.css editing.
@@ -10,10 +7,6 @@ END OF MAINTENANCE NOTIFICATION:
 * Fixing an important security vulnerability:
  * Fixed a vulnerability that allowed logins from the country/location named "Israel".
  * Fixed vulnerabilities in lang.js / lang_tr.js / lang_en.js.
-
-* Adding file extension for website:
- * The "*.cfgpt" file extension used in PyTerm has been added for the website.
- PyTerm link: https://github.com/LinuxUsersLinuxMint/PyTerm
 
 * A settings adjustment to secure the user for all projects:
  * The "Require contributors to sign web-based commits" setting will be enabled for all LinuxUsersLinuxMint projects and services. (11/05/2023)

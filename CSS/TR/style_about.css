@@ -1,0 +1,34 @@
+.abt, .abt-desk {
+    text-align: center;
+    margin: -px 0 -3px;
+    color: rgb(103, 38, 207);
+    font-family: Arial;
+}
+.abtcont {
+    width: 275px;
+    border: 200px solid rgb(103, 38, 207);
+    border-radius: 9px;
+    margin: 40px 0 -3px 32%;
+    height: 0px;
+}
+.abtinfo {
+    margin: 150px 0 -3px -200px;
+}
+.abtcont-desk {
+    width: 700px;
+    border-top: 350px solid rgb(103, 38, 207);
+    margin: 40px 0 -3px 600px;
+    height: 100px;
+    border-radius: 9px 9px;
+}
+.gthbacc, .gthbabt, .prj, .frks {
+    font-family: Arial;
+    color: rgb(151, 31, 207);
+    font-size: 20px;
+}
+.gthbabt, .prj, .frks {
+    margin: 8px 0 -3px 20px;
+}
+.gthbacc {
+    margin: -330px 0 -3px 20px;
+}

@@ -1,10 +1,10 @@
 .body {
-    background: url("https://onedrive.live.com/embed?resid=46999917FDF8E778%211253&authkey=%21AHgkK8fb7bM63sc&width=1920&height=1080");
+    background: url("/Images/macosmonterey.png");
 }
 .logo {
     margin: -15px 15px 30px -23px;
 }
-.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm9, .nm10, .nm11 {
+.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8{
     font-family: Arial;
 }
 .nm1 {
@@ -17,69 +17,51 @@
     margin: -18px 0px -3px 270px;
 }
 .nm4 {
-    margin: -18px 0px -3px 355px;
+    margin: -18px 0px -3px 395px;
 }
 .nm5 {
-    margin: -18px 0 -3px 475px;
+    margin: -18px 0 -3px 595px;
 }
 .nm6 {
-    margin: -18px 0 -3px 480px;
+    margin: -18px 0 -3px 910px;
 }
 .nm7 {
-    margin: -18px 0 -3px 680px;
+    margin: -18px 0 -3px 975px;
 }
-.nm9  {
-    margin: -18px 0 -3px 1000px;
-}
-.nm10 {
-    margin: -18px 0 -3px 1062px;
-
-}
-.nm11 {
-    margin: -18px 0 -3px 1140px;
+.nm8  {
+    margin: -18px 0 -3px 1055px;
 }
 .home:link, .home:visited, .home:hover, .home:active {
     color: rgb(151, 31, 207);
     text-decoration: none;
 }
-.abt, .abt-desk {
-    text-align: center;
-    margin: -px 0 -3px;
-    color: rgb(103, 38, 207);
-    font-family: Arial;
-}
-.navbar2 {
+.navbar {
     width: 95%;
     border: 35px solid rgb(103, 38, 207);
     border-radius: 9px;
     margin: -1px;
     height: 0vh;
 }
-.abtcont {
-    width: 275px;
+.artadosearch {
+    width: 10%;
     border: 200px solid rgb(103, 38, 207);
     border-radius: 9px;
-    margin: 40px 0 -3px 320px;
-    height: 0px;
+    margin: 10px;
+    height: -0vh;
 }
-.abtinfo {
-    margin: 150px 0 -3px -200px;
-}
-.abtcont-desk {
-    width: 700px;
-    border-top: 350px solid rgb(103, 38, 207);
-    margin: 40px 0 -3px 600px;
-    height: 100px;
-    border-radius: 9px 9px;
-}
-.gthbacc, .gthbabt, .prj, .frks {
+.artadosearchtitle {
+    margin: -180px;
     font-family: Arial;
-    color: rgb(151, 31, 207);
-    font-size: 20px;
+    text-align: center;
 }
-.gthbabt, .prj, .frks {
-    margin: 8px 0 -3px 20px;
+.ashr {
+    margin: 190px -200px;
+    width: 308%;
 }
-.gthbacc {
-    margin: -330px 0 -3px 20px;
+.aslogo {
+    margin: -200px -10px 0px 0px;
+}
+.asp {
+    font-family: Arial;
+    margin: 0 0 0 -185px;
 }

@@ -1,3 +1,5 @@
+(tr-TR)
+
 Yenilikler Ve Düzenlemeler:
 
 10 Eylül , 2023 , 14:56
@@ -22,6 +24,8 @@ Yenilikler Ve Düzenlemeler:
   * Web Sitenin Son Güncellenme Tarihi
   * Gelen Yenilikleri
   * Yenilikler Neler İçerdiği Gibi Bilgileri Geçmiş Bölümünden Görebilirsiniz.
+
+(en-EN)
 
 Innovations and Regulations:
 
