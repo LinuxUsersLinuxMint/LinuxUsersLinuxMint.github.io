@@ -1,0 +1,22 @@
+BAKIM SONU BİLDİRİMİ:
+ * 11/04/2023 - 11/04/2023 04 Kasım Cumartesi Saat: 17:16 - 04 Kasım Cumartesi Saat: 00:00 Tarihleri arasında olan bakım 11/04/2023 - 00:00 Tarihinde Sonlandırılmıştır.
+
+* Web Site Güncelleme Bildirimi:
+ * /TR/ ve /EN/ için bir .css güncellemesi yapılıcaktır. (Yeni bir tema veya değişiklik olmayacaktır.):
+  * ABOUT ve PROJECT bölümleri için geçerli olucaktır. *.css düzenlemesi.
+ * "ISRAIL" adlı ülke için lang.js dosyasında döngü güncellemesi yapılmıştır. (While döngüsü)
+  * Bu web sitesine "Israil" konumundan gelen girişleri bir döngüye alır ve devamlı olarak "/index.html" dosyasına gönderir.
+
+* Önemli bir güvenlik açığının düzeltilmesi:
+ * "Israil" adlı ülke/konumundan gelen girişlere izin veren bir güvenlik açığı düzeltildi.
+ * lang.js / lang_tr.js / lang_en.js dosyasındaki güvenlik açıkları düzeltildi.
+
+* Web sitesi için dosya uzantısı eklemesi:
+ * Web sitesi için PyTerm'de kullanılan "*.cfgpt" dosya uzantısı eklenmiştir.
+ PyTerm link: https://github.com/LinuxUsersLinuxMint/PyTerm
+
+* Tüm projeler için kullanıcıyı güven altına almayı sağlayan bir ayar düzenlemesi:
+ * "Katkıda bulunanların web tabanlı taahhütlerde imza atmasını zorunlu kılın" ayarı tüm LinuxUsersLinuxMint projeleri ve hizmetleri için etkinleştirilecektir. (11/05/2023)
+
+* "Israil" adlı ülkeden/konumdan gelen girişlerin engellenmesini sağlayan güvenlik sistemi geçici olarak devre dışı bırakılmıştır.
+ * Değişikliğin geri alınacağı/düzeltileceği tarih: (11/13/2023)

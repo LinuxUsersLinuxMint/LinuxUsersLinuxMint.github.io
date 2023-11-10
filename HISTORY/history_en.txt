@@ -83,3 +83,6 @@ NOTE: This edition has not been prepared for Commercial Purpose. It cannot be us
  * A security system has been developed that prevents access to the website of the country named "Israel".
  * Files under Contracts/*.* path have been converted to .html files.
  * All project links have been added to the My Projects section.
+
+* File change:
+ * _tr, _en have been added to the end of the files in ANNOUNCEMENTS/*.* location.
