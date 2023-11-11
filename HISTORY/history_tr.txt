@@ -15,3 +15,7 @@
  * history_old.txt dosyası oluşturulmuştur. (eski gönderiler oraya taşınır.) https://linuxuserslinuxmint.github.io/HISTORY/Old/history_tr_old.txt
  * "Contents" ve "DownloadableFiles" klasörleri oluşturulmuştur. (Bölüm değildir)
  * software.cfgpt dosyası silinmiştir.
+
+* Son Güncelleme Tarihi 11 Kasım , 2023 , 15:05:
+ * Gereksiz/Kullanılmayan dosyalar silinmiştir.
+ * Web sitesinde artık Python mevcut olmayacaktır.

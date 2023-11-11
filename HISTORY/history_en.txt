@@ -5,3 +5,12 @@
 
 * File change:
  * _tr, _en have been added to the end of the files in ANNOUNCEMENTS/*.* location.
+
+* Last Updated on November 10, 2023, 19:13:
+ * history_old.txt file has been created. (older posts will be moved there.) https://linuxuserslinuxmint.github.io/HISTORY/Old/history_tr_old.txt
+ * "Contents" and "DownloadableFiles" folders have been created. (Not a chapter)
+ * software.cfgpt file has been deleted.
+
+* Last Updated on November 11, 2023, 15:05:
+ * Unnecessary/unused files have been deleted.
+ * Python will no longer be available on the website.
