@@ -14,3 +14,11 @@
 * Last Updated on November 11, 2023, 15:05:
  * Unnecessary/unused files have been deleted.
  * Python will no longer be available on the website.
+
+* Last Updated on November 11, 2023, 15:23:
+ * The "Innovations and Regulations We're Considering" section has been removed. (It will be brought back in the future.)
+ * Some changes have been made to the 404 Error page.
+
+* Last Updated on November 11, 2023, 15:51:
+ * The development process of the Website is now completed. (Updates and Innovations will continue to come)
+ * A 70th day celebration message has been added to the website. (for the linuxuserslinuxmint website developed since September 3)

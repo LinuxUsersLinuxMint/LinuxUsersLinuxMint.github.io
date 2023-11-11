@@ -1,0 +1,2 @@
+alert("LinuxUsersLinuxMint web sitesinin artık geliştirilmesi bitmiştir. (Tam sürüm) ve web sitesinin geliştirilmesinin 70. günü kutlu olsun.");
+console.log("[linuxuserslinuxmint.github.io] LinuxUsersLinuxMint web sitesinin artık geliştirilmesi bitmiştir. (Tam sürüm) ve web sitesinin geliştirilmesinin 70. günü kutlu olsun.");

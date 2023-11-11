@@ -1,0 +1,2 @@
+alert("The LinuxUsersLinuxMint website is now out of development. (Full version) and happy 70th day of website development.");
+console.log("[linuxuserslinuxmint.github.io] The LinuxUsersLinuxMint website is now out of development. (Full version) and happy 70th day of website development.");

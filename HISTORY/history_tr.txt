@@ -19,3 +19,11 @@
 * Son Güncelleme Tarihi 11 Kasım , 2023 , 15:05:
  * Gereksiz/Kullanılmayan dosyalar silinmiştir.
  * Web sitesinde artık Python mevcut olmayacaktır.
+
+* Son Güncelleme Tarihi 11 Kasım , 2023 , 15:23:
+ * "Innovations and Regulations We're Considering" / "Düşündüğümüz Yenilikler ve Düzenlemeler" bölümü kaldırılmıştır. (Gelecekte tekrar getirilecektir.)
+ * 404 Hata sayfası hakkında bir takım değişiklikler yapılmıştır.
+
+* Son Güncelleme Tarihi 11 Kasım , 2023 , 15:51:
+ * Web Sitesinin artık geliştirilme süreci bitmiştir. (Güncellemeler ve Yenilikler gelmeye devam edilicektir)
+ * Web sitesi için 70. gün kutlama mesajı eklenmiştir. (3 Eylül'den beri geliştirilen linuxuserslinuxmint web sitesi için)

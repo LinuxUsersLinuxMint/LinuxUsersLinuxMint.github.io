@@ -9,7 +9,7 @@
 .logo {
     margin: -15px 15px 30px -23px;
 }
-.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8{
+.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7 {
     font-family: Arial;
 }
 .nm1 {
@@ -28,13 +28,10 @@
     margin: -18px 0 -3px 600px;
 }
 .nm6 {
-    margin: -18px 0 -3px 950px;
+    margin: -18px 0 -3px 660px;
 }
 .nm7 {
-    margin: -18px 0 -3px 1010px;
-}
-.nm8 {
-    margin: -18px 0 -3px 1135px;
+    margin: -18px 0 -3px 785px;
 }
 .home:link, .home:visited, .home:hover, .home:active {
     color: rgb(151, 31, 207);
@@ -47,4 +44,27 @@
     border-radius: 9px;
     margin: -1px;
     height: 0vh;
+}
+.artadosearch {
+    width: 10%;
+    border: 200px solid rgb(103, 38, 207);
+    border-radius: 9px;
+    margin: 10px;
+    height: -0vh;
+}
+.artadosearchtitle {
+    margin: -180px;
+    font-family: Arial;
+    text-align: center;
+}
+.ashr {
+    margin: 190px -200px;
+    width: 308%;
+}
+.aslogo {
+    margin: -200px -10px 0px 0px;
+}
+.asp {
+    font-family: Arial;
+    margin: 0 0 0 -185px;
 }
