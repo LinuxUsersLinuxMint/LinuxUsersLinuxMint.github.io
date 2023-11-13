@@ -1,3 +1,5 @@
+@import url("/CSS/CustomCSS/customcss.css");
+
 .body {
     background: url("/Images/macosmonterey.png");
 }
@@ -29,19 +31,19 @@
     margin: -18px 0 -3px 745px;
 }
 .home:link, .home:visited, .home:hover, .home:active {
-    color: rgb(151, 31, 207);
+    color: var(--lx-web-plato-color);
     text-decoration: none;
 }
 .navbar {
     width: 95%;
-    border: 35px solid rgb(103, 38, 207);
+    border: 35px solid var(--lx-web-purple-color);
     border-radius: 9px;
     margin: -1px;
     height: 0vh;
 }
 .artadosearch {
     width: 10%;
-    border: 200px solid rgb(103, 38, 207);
+    border: 200px solid var(--lx-web-purple-color);
     border-radius: 9px;
     margin: 10px;
     height: -0vh;

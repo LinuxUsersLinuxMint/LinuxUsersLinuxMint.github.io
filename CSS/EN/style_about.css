@@ -1,19 +1,21 @@
+@import url("/CSS/CustomCSS/customcss.css");
+
 .abt, .abt-desk {
     text-align: center;
     margin: -px 0 -3px;
-    color: rgb(103, 38, 207);
+    color: var(--lx-web-purple-color);
     font-family: Arial;
 }
 .abtcont {
     width: 700px;
-    border-top: 350px solid rgb(103, 38, 207);
+    border-top: 350px solid var(--lx-web-purple-color);
     margin: 40px 0 -3px 32%;
     height: 100px;
     border-radius: 9px 9px;
 }
 .abtcont-desk {
     width: 700px;
-    border-top: 350px solid rgb(103, 38, 207);
+    border-top: 350px solid var(--lx-web-purple-color);
     margin: 40px 0 -3px 600px;
     height: 100px;
     border-radius: 9px 9px;
@@ -23,7 +25,7 @@
 }
 .gthbacc, .gthbabt, .prj, .frks {
     font-family: Arial;
-    color: rgb(151, 31, 207);
+    color: var(--lx-web-plato-color);
     font-size: 20px;
 }
 .gthbabt, .prj, .frks {
