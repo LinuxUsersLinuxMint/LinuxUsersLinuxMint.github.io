@@ -38,11 +38,13 @@
 .home:link, .home:visited, .home:active {
     color: var(--lx-web-plato-color);
     text-decoration: none;
+    font-family: Arial;
 
 }
 .home:hover {
     color: var(--lx-web-link-hover);
     text-decoration: none;
+    font-family: Arial;
 }
 .navbar, .artadosearch {
     border-radius: 9px;
