@@ -2,10 +2,9 @@ body {
     background: rgb(34, 33, 33);
     font-family: Arial;
 }
-.privacyandsecutrytitle {
+.privacyandsecutrytitle, .info {
     color: white;
-    text-align: center;
 }
-.info {
-    color: white;
+.privacyandsecutrytitle {
+    text-align: center;
 }

@@ -35,28 +35,35 @@
 .nm7 {
     margin: -18px 0 -3px 785px;
 }
-.home:link, .home:visited, .home:hover, .home:active {
+.home:link, .home:visited, .home:active {
     color: var(--lx-web-plato-color);
     text-decoration: none;
 
 }
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}
+.navbar, .artadosearch {
+    border-radius: 9px;
+}
 .navbar {
     width: 95%;
     border: 35px solid var(--lx-web-purple-color);
-    border-radius: 9px;
     margin: -1px;
     height: 0vh;
 }
 .artadosearch {
     width: 10%;
     border: 200px solid var(--lx-web-purple-color);
-    border-radius: 9px;
     margin: 10px;
     height: -0vh;
 }
+.artadosearchtitle, .asp {
+    font-family: Arial;
+}
 .artadosearchtitle {
     margin: -180px;
-    font-family: Arial;
     text-align: center;
 }
 .ashr {
@@ -67,6 +74,5 @@
     margin: -200px -10px 0px 0px;
 }
 .asp {
-    font-family: Arial;
     margin: 0 0 0 -185px;
 }

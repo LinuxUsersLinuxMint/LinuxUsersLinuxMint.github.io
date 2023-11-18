@@ -1,0 +1,11 @@
+@import url("/CSS/CustomCSS/customcss.css");
+body {
+    background: url("/Images/macosmonterey.png");
+}
+.mtt, .tt {
+    text-align: center;
+    font-family: Arial;
+}
+.mtt {
+    color: var(--lx-web-plato-color);
+}

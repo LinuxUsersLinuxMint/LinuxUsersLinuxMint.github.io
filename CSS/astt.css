@@ -1,0 +1,13 @@
+body {
+    background: url("/Images/macosmonterey.png");
+}
+.Whatsavailable {
+    
+    font-family: Arial;
+    color: rgb(151, 31, 207);
+}
+.astt {
+    font-family: Arial;
+    text-align: center;
+    color: rgb(151, 31, 207);
+}
