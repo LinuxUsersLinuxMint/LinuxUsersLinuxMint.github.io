@@ -1,7 +1,7 @@
 :root {
     --lx-web-purple-color: rgb(103, 38, 207);
     --lx-web-plato-color: rgb(151, 31, 207);
-    --lx-web-opc-purple-color: rgb(103, 38, 207 / 60%);
-    --lx-web-opc-plato-color: rgb(151, 31, 207 / 60%);
+    --lx-web-opc-purple-color: rgb(103, 38, 207, 60%);
+    --lx-web-opc-plato-color: rgb(151, 31, 207, 60%);
     --lx-web-link-hover: rgb(164, 39, 202);
 }
