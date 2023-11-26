@@ -34,3 +34,6 @@
 * Son Güncelleme Tarihi 26 Kasım , 2023 , 14:50:
  * CAppDevKit (CADK) projesi Hakkımda kısmına eklenmiştir.
  * Hakkımda kısmındaki kutular saydamlaştırılmıştır.
+
+* Son Güncelleme Tarihi 26 Kasım , 2023 , 22:54:
+ * Bir takım *.css optimizasyonları yapılmıştır.

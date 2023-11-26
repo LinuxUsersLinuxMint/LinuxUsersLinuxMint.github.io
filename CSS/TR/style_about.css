@@ -1,10 +1,13 @@
 @import url("/CSS/CustomCSS/customcss.css");
 
+body {
+    font-family: Arial;
+}
+
 .abt{
     text-align: center;
     margin: -px 0 -3px;
     color: var(--lx-web-purple-color);
-    font-family: Arial;
 }
 .abtcont {
     width: 275px;
@@ -17,7 +20,6 @@
     margin: 150px 0 -3px -200px;
 }
 .gthbacc, .prj, .frks {
-    font-family: Arial;
     color: var(--lx-web-abt-title-color);
     font-size: 20px;
 }

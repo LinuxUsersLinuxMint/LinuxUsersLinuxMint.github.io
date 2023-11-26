@@ -2,12 +2,10 @@
 
 .body {
     background: url("/Images/macosmonterey.png");
+    font-family: Arial;
 }
 .logo {
     margin: -15px 15px 30px -23px;
-}
-.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7{
-    font-family: Arial;
 }
 .nm1 {
     margin: -57px 0px -3px 20px;
@@ -33,12 +31,10 @@
 .home:link, .home:visited, .home:active {
     color: var(--lx-web-plato-color);
     text-decoration: none;
-    font-family: Arial;
 }
 .home:hover {
     color: var(--lx-web-link-hover);
     text-decoration: none;
-    font-family: Arial;
 }
 .navbar, .artadosearch {
     border-radius: 9px;
@@ -54,9 +50,6 @@
     border: 200px solid var(--lx-web-purple-color);
     margin: 10px;
     height: -0vh;
-}
-.artadosearchtitle, .asp {
-    font-family: Arial;
 }
 .artadosearchtitle {
     margin: -180px;
