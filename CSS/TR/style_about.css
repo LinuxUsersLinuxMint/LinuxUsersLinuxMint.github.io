@@ -1,6 +1,6 @@
 @import url("/CSS/CustomCSS/customcss.css");
 
-.abt, .abt-desk {
+.abt{
     text-align: center;
     margin: -px 0 -3px;
     color: var(--lx-web-purple-color);
@@ -8,7 +8,7 @@
 }
 .abtcont {
     width: 275px;
-    border: 200px solid var(--lx-web-purple-color);
+    border: 200px solid var(--lx-web-opc-purple-color);
     border-radius: 9px;
     margin: 40px 0 -3px 32%;
     height: 0px;
@@ -16,19 +16,12 @@
 .abtinfo {
     margin: 150px 0 -3px -200px;
 }
-.abtcont-desk {
-    width: 700px;
-    border-top: 350px solid var(--lx-web-purple-color);
-    margin: 40px 0 -3px 600px;
-    height: 100px;
-    border-radius: 9px 9px;
-}
-.gthbacc, .gthbabt, .prj, .frks {
+.gthbacc, .prj, .frks {
     font-family: Arial;
-    color: var(--lx-web-plato-color);
+    color: var(--lx-web-abt-title-color);
     font-size: 20px;
 }
-.gthbabt, .prj, .frks {
+.prj, .frks {
     margin: 8px 0 -3px 20px;
 }
 .gthbacc {

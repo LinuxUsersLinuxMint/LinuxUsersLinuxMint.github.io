@@ -1,5 +1,4 @@
 * Last Updated on November 4, 2023, 11:08:
- * A security system has been developed that prevents access to the website of the country named "Israel".
  * Files under Contracts/*.* path have been converted to .html files.
  * All project links have been added to the My Projects section.
 
@@ -26,3 +25,7 @@
 * Last Updated on November 18, 2023, 18:33:
  * Website maintenance has been cancelled. (Maintenance between 11/13/2023 - 02/02/2024, Monday, November 13, Time: 21:30 - Friday, February 2, Time: 00:00)
  * Added color correction when clicking on links for the website (link:hover)
+
+* Last Updated on 26 November 2023, 14:50:
+  * CAppDevKit (CADK) project has been added to the About Me section.
+  * The boxes in the About Me section have been made transparent.

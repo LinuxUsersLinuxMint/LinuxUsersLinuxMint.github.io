@@ -1,33 +1,26 @@
 @import url("/CSS/CustomCSS/customcss.css");
 
-.abt, .abt-desk {
+.abt{
     text-align: center;
     margin: -px 0 -3px;
     color: var(--lx-web-purple-color);
     font-family: Arial;
 }
 .abtcont {
-    width: 700px;
-    border-top: 350px solid var(--lx-web-purple-color);
+    width: 275px;
+    border: 200px solid var(--lx-web-opc-purple-color);
+    border-radius: 9px;
     margin: 40px 0 -3px 32%;
-    height: 100px;
-    border-radius: 9px 9px;
-}
-.abtcont-desk {
-    width: 700px;
-    border-top: 350px solid var(--lx-web-purple-color);
-    margin: 40px 0 -3px 600px;
-    height: 100px;
-    border-radius: 9px 9px;
+    height: 0px;
 }
 .gthbacc {
-    margin: -330px 0 -3px 20px;
+    margin: -187px 0 -3px -187px;
 }
-.gthbacc, .gthbabt, .prj, .frks {
+.gthbacc, .prj, .frks {
     font-family: Arial;
-    color: var(--lx-web-plato-color);
+    color: var(--lx-web-abt-title-color);
     font-size: 20px;
 }
-.gthbabt, .prj, .frks {
-    margin: 8px 0 -3px 20px;
+.prj, .frks {
+    margin: 8px 0 -3px -187px;
 }

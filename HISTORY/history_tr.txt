@@ -1,5 +1,4 @@
 * Son Güncelleme Tarihi 4 Kasım , 2023 , 11:08:
- * "Israil" adlı ülkenin web sitesine girişini engelleyen güvenlik sistemi geliştirilmiştir.
  * Sözleşmeler/*.* yolu altındaki dosyalar .html dosyasına çevrilmiştir.
  * Projelerim kısmına tüm proje linkleri eklenmiştir.
 
@@ -31,3 +30,7 @@
 * Son Güncelleme Tarihi 18 Kasım , 2023 , 18:33:
  * Web sitesi bakımı iptal edilmiştir. (11/13/2023 - 02/02/2024 13 Kasım Pazartesi Saat: 21:30 - 02 Şubat Cuma Saat: 00:00  Tarihleri arasında olan bakım)
  * Web sitesi için linklerin üzerine tıklanınca renk düzeltmesi eklendi (link:hover)
+
+* Son Güncelleme Tarihi 26 Kasım , 2023 , 14:50:
+ * CAppDevKit (CADK) projesi Hakkımda kısmına eklenmiştir.
+ * Hakkımda kısmındaki kutular saydamlaştırılmıştır.
