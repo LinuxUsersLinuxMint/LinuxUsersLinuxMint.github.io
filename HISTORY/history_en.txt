@@ -32,3 +32,7 @@
 
 * Last Updated on 26 November 2023, 22:54:
  * A number of *.css optimizations have been made.
+
+* Last Updated on November 27, 2023, 19:39:
+ * (New theme news)
+  * The theme available on our website is now transparent for the entire website.

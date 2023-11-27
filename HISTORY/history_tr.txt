@@ -37,3 +37,7 @@
 
 * Son Güncelleme Tarihi 26 Kasım , 2023 , 22:54:
  * Bir takım *.css optimizasyonları yapılmıştır.
+
+* Son Güncelleme Tarihi 27 Kasım , 2023 , 19:39:
+ * (Yeni tema haberi)
+  * Web sitemizde mevcut olan tema artık tüm web sitesi için saydamlaştırılmıştır.
