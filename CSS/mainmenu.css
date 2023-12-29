@@ -3,9 +3,9 @@ body {
     background: url("/Images/macosmonterey.png");
     font-family: Arial;
 }
-.mtt, .tt {
+.maintenance, .title {
     text-align: center;
 }
-.mtt {
+.maintenance {
     color: var(--lx-web-plato-color);
 }
