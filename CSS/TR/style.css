@@ -4,6 +4,11 @@
     background: url("/Images/macosmonterey.png");
     font-family: Arial;
 }
+::-webkit-scrollbar {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
 .logo {
     margin: -15px 15px 30px -23px;
 }
