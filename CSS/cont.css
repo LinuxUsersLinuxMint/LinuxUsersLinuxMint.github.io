@@ -2,11 +2,6 @@ body {
     background: url("/Images/macosmonterey.png");
     font-family: Arial;
 }
-::-webkit-scrollbar {
-    display: none;
-    visibility: hidden;
-    opacity: 0;
-}
 .Whatsavailable, .conttitle {
     color: rgb(151, 31, 207);
 }

@@ -5,6 +5,7 @@ var lang =  navigator.language || navigator.userLanguage;
  * Sadece Resmi dili Türkçe olan ülkeler /TR/index.html sayfasına gönderilecek şekilde ayarlanmıştır eğer Türkiye Cumhuriyeti ve Türk ülkelerinde yaşamıyorsanız
  * ancak Türkçe dilini kullanıyor iseniz /TR/index.html sayfasına girebilmek için kullandığınız Web tarayıcısından konum değiştiriniz. İşe yaramazsa lütfen /support/linuxuserslinuxmint/location.tr.html sayfasını ziyaret ediniz.
  */
+
 if (lang == "tr-TR" | // Türkiye [1]
 lang == "tr" | // [1]
 lang == "tr_TR" | // [1]

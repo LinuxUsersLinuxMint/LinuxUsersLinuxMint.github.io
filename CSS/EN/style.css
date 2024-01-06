@@ -33,6 +33,12 @@
 .menu7 {
     margin: -18px 0 -3px 785px;
 }
+.menu8 {
+    margin: 5px 0 -3px 0px;
+}
+.menu9 {
+    margin: -18px 0 -3px 110px;
+}
 .home:link, .home:visited, .home:active {
     color: var(--lx-web-plato-color);
     text-decoration: none;

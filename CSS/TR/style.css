@@ -4,11 +4,6 @@
     background: url("/Images/macosmonterey.png");
     font-family: Arial;
 }
-::-webkit-scrollbar {
-    display: none;
-    visibility: hidden;
-    opacity: 0;
-}
 .logo {
     margin: -15px 15px 30px -23px;
 }
@@ -32,6 +27,12 @@
 }
 .menu7 {
     margin: -18px 0 -3px 745px;
+}
+.menu8 {
+    margin: 5px 0 -3px 0px;
+}
+.menu9 {
+    margin: -18px 0 -3px 86px;
 }
 .home:link, .home:visited, .home:active {
     color: var(--lx-web-plato-color);
