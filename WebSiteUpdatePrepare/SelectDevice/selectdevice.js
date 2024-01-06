@@ -7,3 +7,8 @@ function DesktopDevice()
 {
     document.location.href = "/index.html";
 }
+
+function SupportPageMobile()
+{
+    document.location.href = "/WebSiteUpdatePrepare/support/index.html";
+}
