@@ -1,4 +1,4 @@
-var lang =  navigator.language || navigator.userLanguage;
+import { lang } from "js_var.js";
 /**
  * Türkiye Cumhuriyeti Ve Diğer Türk ülkeleri /TR/index.html sayfasına gönderilecek şekilde ayarlanmıştır.
  * Web sitemiz sadece Türkçe ve İngilizce için destek vericektir. Harici diller için herhangi bir destek getirilmeyecektir.
@@ -36,16 +36,16 @@ lang == "uz" | // [7]
 lang == "UZ") // [7] 
 {
     console.log("[linuxuserslinuxmint.github.io]: USER_LOCATION= Türkiye or Turkish countries");
-    document.location.href = "/index.html";
+    //document.location.href = "/index.html";
 }
 else if (lang == "en-EN" | lang == "en" | lang == "en_US" | lang == "en-US") // This part has been postponed to an indefinite date.
 {
-    document.location.href = "/index.html";
+    //document.location.href = "/index.html";
 }
 else if (lang != "tr-TR" | lang != "tr" | lang != "tr_TR")
 {
     alert("You are outside the TR or EN region. Support for languages of other countries has not been introduced.");
-    document.location.href = "/index.html";
+    //document.location.href = "/index.html";
 }
 //while (lang == "ıl-IL" | lang == "ıl" | lang == "ıl_IL" | lang == "ıl-IL")
 //{

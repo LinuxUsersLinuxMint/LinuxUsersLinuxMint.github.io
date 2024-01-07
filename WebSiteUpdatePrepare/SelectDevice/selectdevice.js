@@ -1,3 +1,7 @@
+/**
+ * The codes are currently in Beta version. It will be changed in subsequent versions. (For testing purposes.)
+ */
+
 function MobileDevice()
 {
     document.location.href = "MobileDevices/index.html";
