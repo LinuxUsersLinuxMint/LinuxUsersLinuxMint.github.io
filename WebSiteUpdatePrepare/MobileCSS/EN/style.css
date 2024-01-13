@@ -4,6 +4,11 @@
     background: url("/Images/macosmonterey.png");
     font-family: Arial;
 }
+::-webkit-scrollbar {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
 .logo {
     margin: -15px 15px 30px -23px;
 }
@@ -14,29 +19,30 @@
     margin: -18px 0px -3px 183px;
 }
 .menu3 {
-    margin: -18px 0px -3px 270px;
+    margin: -18px 0px -3px 239px;
 }
 .menu4 {
-    margin: -18px 0px -3px 395px;
+    margin: -18px 0px -3px 385px;
 }
 .menu5 {
-    margin: -18px 0 -3px 595px;
+    margin: -18px 0 -3px 600px;
 }
 .menu6 {
-    margin: -18px 0 -3px 663px;
+    margin: -18px 0 -3px 660px;
 }
 .menu7 {
-    margin: -18px 0 -3px 745px;
+    margin: -18px 0 -3px 785px;
 }
 .menu8 {
     margin: 5px 0 -3px 0px;
 }
 .menu9 {
-    margin: -18px 0 -3px 86px;
+    margin: -18px 0 -3px 110px;
 }
 .home:link, .home:visited, .home:active {
     color: var(--lx-web-plato-color);
     text-decoration: none;
+
 }
 .home:hover {
     color: var(--lx-web-link-hover);
@@ -46,7 +52,7 @@
     border-radius: 9px;
 }
 .navbar {
-    width: 95%;
+    width: 200%;
     border: 35px solid var(--lx-web-opc-purple-color);
     margin: -1px;
     height: 0vh;
@@ -68,5 +74,5 @@
     margin: -200px -10px 0px 0px;
 }
 .asp {
-    margin: 0 0 0 -185px;
+    margin: -57px 0 0 -185px;
 }

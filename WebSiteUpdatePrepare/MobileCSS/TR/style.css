@@ -46,7 +46,7 @@
     border-radius: 9px;
 }
 .navbar {
-    width: 95%;
+    width: 200%;
     border: 35px solid var(--lx-web-opc-purple-color);
     margin: -1px;
     height: 0vh;
@@ -68,5 +68,5 @@
     margin: -200px -10px 0px 0px;
 }
 .asp {
-    margin: 0 0 0 -185px;
+    margin: -57px 0 0 -185px;
 }
