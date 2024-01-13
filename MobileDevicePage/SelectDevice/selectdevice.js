@@ -4,7 +4,7 @@
 
 function MobileDevice()
 {
-    document.location.href = "MobileDevices/index.html";
+    document.location.href = "/MobileDevicePage/index.html";
 }
 
 function DesktopDevice()
@@ -14,5 +14,5 @@ function DesktopDevice()
 
 function SupportPageMobile()
 {
-    document.location.href = "/WebSiteUpdatePrepare/support/index.html";
+    document.location.href = "/MobileDevicePage/support/index.html";
 }
