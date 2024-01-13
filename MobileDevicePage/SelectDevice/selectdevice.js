@@ -9,7 +9,7 @@ function MobileDevice()
 
 function DesktopDevice()
 {
-    document.location.href = "/index.html";
+    document.location.href = "/desktop.device.index.html";
 }
 
 function SupportPageMobile()
