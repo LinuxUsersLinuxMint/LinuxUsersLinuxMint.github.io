@@ -1,4 +1,4 @@
-import { lang } from "js_var.js";
+var lang = navigator.language || navigator.userLanguage;
 /**
  * Türkiye Cumhuriyeti Ve Diğer Türk ülkeleri /TR/index.html sayfasına gönderilecek şekilde ayarlanmıştır.
  * Web sitemiz sadece Türkçe ve İngilizce için destek vericektir. Harici diller için herhangi bir destek getirilmeyecektir.
