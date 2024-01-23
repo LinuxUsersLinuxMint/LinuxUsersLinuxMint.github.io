@@ -42,7 +42,7 @@
     color: var(--lx-web-link-hover);
     text-decoration: none;
 }
-.navbar, .artadosearch {
+.navbar, .contentsbox {
     border-radius: 9px;
 }
 .navbar {
@@ -51,22 +51,25 @@
     margin: -1px;
     height: 0vh;
 }
-.artadosearch {
+.contentsbox {
     width: 10%;
     border: 200px solid var(--lx-web-opc-purple-color);
     margin: 10px;
     height: -0vh;
 }
-.artadosearchtitle {
+.contentstitle {
     margin: -180px;
     text-align: center;
 }
-.ashr {
+.conthr {
     margin: 190px -200px;
 }
-.aslogo {
+.contlogo {
     margin: -200px -10px 0px 0px;
 }
-.asp {
+.cont {
     margin: -57px 0 0 -185px;
+}
+.adwmlogo {
+        margin: -200px -10px 50px -48px;
 }
