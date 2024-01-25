@@ -63,6 +63,9 @@
     margin: 10px;
     height: -0vh;
 }
+.contentsbox_1 {
+    margin: -820px 0 0 615px;
+}
 .contentstitle {
     margin: -180px;
     text-align: center;
@@ -76,9 +79,15 @@
 .cont {
     margin: 0 0 0 -185px;
 }
+.cont1 {
+    margin: -35px 0 0 -200px;
+}
 .adwmlogo {
     margin: -200px -10px 50px -48px;
 }
 .createddate {
     margin: -75px 0 0 250px;
+}
+.crt1 {
+    margin: -95px 0 0 300px;
 }
