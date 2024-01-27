@@ -16,3 +16,7 @@ function SupportPageMobile()
 {
     document.location.href = "/MobileDevicePage/support/index.html";
 }
+function SupportPageDesktop()
+{
+    document.location.href = "/support/index.html";
+}
