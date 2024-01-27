@@ -1,0 +1,1 @@
+alert("AdWMGUI adlı yazılım 01/28/2024 00:00 tarihinde web sitemizde yayımlanıcak ve 01/28/2024 00:00 tarihinde web sitemizden indirilebilir olucaktır.");
