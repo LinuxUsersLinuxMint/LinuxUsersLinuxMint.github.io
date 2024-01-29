@@ -1,1 +1,1 @@
-alert("The software named AdWMGUI will be published on our website on 01/28/2024 00:00 and will be available for download from our website on 01/28/2024 00:00.");
+//alert("The software named AdWMGUI will be published on our website on 01/28/2024 00:00 and will be available for download from our website on 01/28/2024 00:00.");
