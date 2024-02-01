@@ -49,6 +49,7 @@
     width: 95%;
     border: 35px solid var(--lx-web-opc-purple-color);
     margin: -1px;
+    padding: auto;
     height: 0vh;
 }
 .contentsbox {
