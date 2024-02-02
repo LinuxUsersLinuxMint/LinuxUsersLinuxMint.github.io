@@ -1,2 +1,0 @@
-alert("TR: Web sitesinde belirtilen tüm çalışmalar tamamlanmıştır. Web sitesi 01/14/2024 00:00 tarihinde açılacaktır.");
-alert("EN: All work specified on the website has been completed. The website will be opened on 01/14/2024 00:00.");
