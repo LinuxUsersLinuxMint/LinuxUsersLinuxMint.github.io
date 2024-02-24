@@ -1,0 +1,13 @@
+body {
+    background: url("/Images/macosmonterey.png");
+    text-align: center;
+    font-family: Arial;
+}
+.homelink {
+    text-align: center;
+    color: rgb(151, 31, 207);
+    text-decoration: none;
+}
+.error {
+    color: rgb(151, 31, 207);
+}
