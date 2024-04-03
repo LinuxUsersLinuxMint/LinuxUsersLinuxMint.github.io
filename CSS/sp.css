@@ -2,6 +2,7 @@
 
 .body {
     background: url("/Images/macosmonterey.png");
+    font-family: Arial;
 }
 
 .supportmenu, .supportmenu1 {
@@ -23,4 +24,10 @@
 .home:hover {
     color: var(--lx-web-link-hover);
     text-decoration: none;
+}
+.menutext {
+    margin: -10px 0 0 0;
+}
+.menutext1 {
+    margin: -17.5px 0 0 65px;
 }
