@@ -6,7 +6,7 @@
 
 .supportmenu, .supportmenu1 {
     width: 60%;
-    border: 15px solid var(--lx-web-purple-color);
+    border: 15px solid var(--lx-web-opc-purple-color);
     height: 0vh;
     border-radius: 9px;
 }
