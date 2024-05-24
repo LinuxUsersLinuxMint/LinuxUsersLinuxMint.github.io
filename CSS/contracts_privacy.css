@@ -8,3 +8,10 @@ body {
 .title {
     text-align: center;
 }
+.home:link, .home:visited, .home:active {
+    color: rgb(170, 184, 181);
+}
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}
