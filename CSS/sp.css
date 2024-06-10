@@ -1,0 +1,33 @@
+@import url("/CSS/CustomCSS/customcss.css");
+
+.body {
+    background: url("/Images/macosmonterey.png");
+    font-family: Arial;
+}
+
+.supportmenu, .supportmenu1 {
+    width: 60%;
+    border: 15px solid var(--lx-web-opc-purple-color);
+    height: 0vh;
+    border-radius: 9px;
+}
+.supportmenu {
+    margin: -1px;
+}
+.supportmenu1 {
+    margin: 10px 0px 0px -1px;
+}
+.home:link, .home:visited, .home:active {
+    color: var(--lx-web-plato-color);
+    text-decoration: none;
+}
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}
+.menutext {
+    margin: -10px 0 0 0;
+}
+.menutext1 {
+    margin: -17.5px 0 0 65px;
+}

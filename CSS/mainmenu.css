@@ -1,0 +1,20 @@
+@import url("/CSS/CustomCSS/customcss.css");
+body {
+    background: url("/Images/macosmonterey.png");
+    font-family: Arial;
+}
+.maintenance, .title {
+    text-align: center;
+}
+.maintenance {
+    color: var(--lx-web-plato-color);
+}
+.home:link, .home:visited, .home:active {
+    color: var(--lx-web-plato-color);
+    text-decoration: none;
+
+}
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}

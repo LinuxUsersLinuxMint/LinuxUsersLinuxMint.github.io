@@ -1,0 +1,10 @@
+body {
+    background: url("/Images/macosmonterey.png");
+    font-family: Arial;
+}
+.Whatsavailable, .astt, .h3 {
+    color: rgb(151, 31, 207);
+}
+.astt {
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+body {
+    background: url("/Images/macosmonterey.png");
+    font-family: Arial;
+}
+.Whatsavailable, .conttitle {
+    color: rgb(151, 31, 207);
+}
+.conttitle {
+    text-align: center;
+}
+.title {
+    text-align: center;
+}
