@@ -1,7 +1,6 @@
 @import url("/CSS/CustomCSS/customcss.css");
 
 .body {
-    background: url("/Images/macosmonterey.png");
     font-family: Arial;
 }
 ::-webkit-scrollbar {
@@ -96,4 +95,219 @@
 }
 .crt1 {
     margin: -95px 0 0 300px;
+}
+@media screen and (width: 240px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/240x320/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 320px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/320x240/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 344px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/344x882/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 353px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/353x745/monterey.jpg");
+    }
+}
+@media screen and (width: 360px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/360x640/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 375px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/375x667/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 384px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/384x640/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 390px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/390x844/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 393px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/393x786/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 411px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/411x823/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 412px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/412x915/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 414px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/414x896/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 430px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/430x932/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 480px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/480x854/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 540px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/540x960/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 548px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/548x914/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 600px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/600x1024/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 640px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/640x1136/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 712px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/712x1138/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 720px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/720x1280/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 750px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/750x1334/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 768px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/768x1024/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 800px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/800x1280/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 853px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/853x1280/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 912px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/912x1368/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1024px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1024x768/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1080px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1080x1920/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1125px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1125x2436/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1152px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1152x864/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1242px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1242x2668/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1280px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1280x1024/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1366px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1366x768/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1360px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1360x768/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1400px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1400x1050/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1440px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1440x2560/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1600px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1600x900/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 1920px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
+    }
+}
+@media screen and (width: 2048px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/2048x1152/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 2160px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/2160x3840/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 2560px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 2932px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/2932x2932/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 3840px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/3840x2160/macosmonterey.jpg");
+    }
+}
+@media screen and (width: 5120px) {
+    body {
+        background: url("/assets/Images/WalpaperImages/5120x2880/macosmonterey.jpg");
+    }
 }
