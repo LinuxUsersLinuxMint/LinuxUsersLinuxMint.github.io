@@ -1,8 +1,0 @@
-* Website Update Notification:
- * A .css update will be made for /TR/ and /EN/. (There will be no new theme or change.):
-  * It will be valid for ABOUT and PROJECT sections. *.css editing.
-
-* A settings adjustment to secure the user for all projects:
- * The "Require contributors to sign web-based commits" setting will be enabled for all LinuxUsersLinuxMint projects and services. (11/05/2023)
-
-* Added creation date feature for content (01/23/2024)

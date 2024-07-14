@@ -1,8 +1,0 @@
-* Web Site Güncelleme Bildirimi:
- * /TR/ ve /EN/ için bir .css güncellemesi yapılıcaktır. (Yeni bir tema veya değişiklik olmayacaktır.):
-  * ABOUT ve PROJECT bölümleri için geçerli olucaktır. *.css düzenlemesi.
-
-* Tüm projeler için kullanıcıyı güven altına almayı sağlayan bir ayar düzenlemesi:
- * "Katkıda bulunanların web tabanlı taahhütlerde imza atmasını zorunlu kılın" ayarı tüm LinuxUsersLinuxMint projeleri ve hizmetleri için etkinleştirilecektir. (11/05/2023)
-
-* İçerikler için oluşturulma tarihi özelliği eklemesi (01/23/2024)
