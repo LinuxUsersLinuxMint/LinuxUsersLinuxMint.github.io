@@ -1,31 +1,24 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+.homelink {
+    text-align: center;
+    color: rgb(151, 31, 207);
+    text-decoration: none;
+}
+.error {
+    color: rgb(151, 31, 207);
+}
+
 @media screen and (width: 1920px) {
     body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
-        text-align: center;
-        font-family: Arial;
-    }
-    .homelink {
-        text-align: center;
-        color: rgb(151, 31, 207);
-        text-decoration: none;
-    }
-    .error {
-        color: rgb(151, 31, 207);
     }
 }
 
 @media screen and (width: 2560px) {
     body {
         background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
-        text-align: center;
-        font-family: Arial;
-    }
-    .homelink {
-        text-align: center;
-        color: rgb(151, 31, 207);
-        text-decoration: none;
-    }
-    .error {
-        color: rgb(151, 31, 207);
     }
 }
