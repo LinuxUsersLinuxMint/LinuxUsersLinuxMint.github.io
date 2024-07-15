@@ -1,0 +1,69 @@
+@import url("/assets/CSS/CustomCSS/customcss.css");
+
+@media screen and (width: 1920px) {
+    .body {
+    background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
+    font-family: Arial;
+}
+
+.supportmenu, .supportmenu1 {
+    width: 60%;
+    border: 15px solid var(--lx-web-opc-purple-color);
+    height: 0vh;
+    border-radius: 9px;
+}
+.supportmenu {
+    margin: -1px;
+}
+.supportmenu1 {
+    margin: 10px 0px 0px -1px;
+}
+.home:link, .home:visited, .home:active {
+    color: var(--lx-web-plato-color);
+    text-decoration: none;
+}
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}
+.menutext {
+    margin: -10px 0 0 0;
+}
+.menutext1 {
+    margin: -17.5px 0 0 65px;
+}
+}
+
+@media screen and (width: 2560px) {
+    .body {
+    background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
+    font-family: Arial;
+}
+
+.supportmenu, .supportmenu1 {
+    width: 60%;
+    border: 15px solid var(--lx-web-opc-purple-color);
+    height: 0vh;
+    border-radius: 9px;
+}
+.supportmenu {
+    margin: -1px;
+}
+.supportmenu1 {
+    margin: 10px 0px 0px -1px;
+}
+.home:link, .home:visited, .home:active {
+    color: var(--lx-web-plato-color);
+    text-decoration: none;
+}
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}
+.menutext {
+    margin: -10px 0 0 0;
+}
+.menutext1 {
+    margin: -17.5px 0 0 65px;
+}
+}

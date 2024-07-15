@@ -1,0 +1,2 @@
+//alert("BAKIM BİLDİRİMİ: XX/XX/XXXX - XX/XX/XXXX XX XXXXXXX XXXXXXXX Saat: XX:XX - XX XXXXXXX XXXXXXXX Saat: XX:XX Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.");
+//alert("MAINTENANCE NOTICE: The Website Has Been Closed Due to Maintenance Between XX/XX/XXXX - XX/XX/XXXX XX XXXXXXXX XXXXXXX Time: XX:XX - XX XXXXXXXX XXXXXXXX Time: XX:XX.");

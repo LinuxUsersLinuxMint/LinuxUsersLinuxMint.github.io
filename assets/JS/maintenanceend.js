@@ -1,0 +1,2 @@
+//alert("BAKIM SONU BİLDİRİMİ: 11/04/2023 - 11/04/2023 04 Kasım Cumartesi Saat: 17:16 - 04 Kasım Cumartesi Saat: 00:00 Tarihleri arasında olan bakım 11/04/2023 - 00:00 Tarihinde Sonlandırılmıştır. (05 Kasım da kaldırılıcaktır)","Bakım Sonu Bildirimi");
+//alert("END OF MAINTENANCE NOTIFICATION: The Website Has Been Closed Due to Maintenance Between 11/04/2023 - 11/04/2023 04 November Saturday Time: 17:16 - 04 November Saturday Time: 00:00. (It will be removed on November 05)","Ends Of Maintenance Notification");
