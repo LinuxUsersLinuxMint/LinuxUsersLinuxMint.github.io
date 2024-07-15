@@ -1,4 +1,4 @@
-@import url("/CSS/CustomCSS/customcss.css");
+@import url("/assets/CSS/CustomCSS/customcss.css");
 
 @media screen and (width: 1920px) {
     body {
@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (width: 1920px) {
+@media screen and (width: 2560px) {
     body {
         font-family: Arial;
     }
