@@ -1,66 +1,46 @@
-@import url("/CSS/CustomCSS/customcss.css");
+@import url("/assets/CSS/CustomCSS/customcss.css");
 
-@media screen and (width: 1920px) {
-    body {
-        font-family: Arial;
-    }
+body {
+    font-family: Arial;
+}
 
-    .abt{
-        text-align: center;
-        margin: -px 0 -3px;
-        color: var(--lx-web-purple-color);
-    }
+.abt{
+    text-align: center;
+    margin: -px 0 -3px;
+    color: var(--lx-web-purple-color);
+}
+
+.abtcont {
+    width: 275px;
+    border: 200px solid var(--lx-web-opc-purple-color);
+    border-radius: 9px;
+    height: 0px;
+}
+
+.abtinfo {
+    margin: 150px 0 -3px -200px;
+}
+
+.gthbacc, .prj, .frks {
+    color: var(--lx-web-abt-title-color);
+    font-size: 20px;
+}
+
+.prj, .frks {
+    margin: 8px 0 -3px 20px;
+}
+.gthbacc {
+    margin: -330px 0 -3px 20px;
+}
+
+@media screen and (width: 1920px) {  
     .abtcont {
-        width: 275px;
-        border: 200px solid var(--lx-web-opc-purple-color);
-        border-radius: 9px;
         margin: 40px 0 -3px 32%;
-        height: 0px;
-    }
-    .abtinfo {
-        margin: 150px 0 -3px -200px;
-    }
-    .gthbacc, .prj, .frks {
-        color: var(--lx-web-abt-title-color);
-        font-size: 20px;
-    }
-    .prj, .frks {
-        margin: 8px 0 -3px 20px;
-    }
-    .gthbacc {
-        margin: -330px 0 -3px 20px;
     }
 }
 
-
 @media screen and (Width: 2560px) {
-    body {
-        font-family: Arial;
-    }
-    
-    .abt{
-        text-align: center;
-        margin: -px 0 -3px;
-        color: var(--lx-web-purple-color);
-    }
     .abtcont {
-        width: 275px;
-        border: 200px solid var(--lx-web-opc-purple-color);
-        border-radius: 9px;
         margin: 40px 0 -3px 37%;
-        height: 0px;
-    }
-    .abtinfo {
-        margin: 150px 0 -3px -200px;
-    }
-    .gthbacc, .prj, .frks {
-        color: var(--lx-web-abt-title-color);
-        font-size: 20px;
-    }
-    .prj, .frks {
-        margin: 8px 0 -3px 20px;
-    }
-    .gthbacc {
-        margin: -330px 0 -3px 20px;
     }
 }
