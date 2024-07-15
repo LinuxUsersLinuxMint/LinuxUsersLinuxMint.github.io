@@ -1,14 +1,27 @@
 @import url("/assets/CSS/CustomCSS/customcss.css");
 
+body {
+    font-family: Arial;
+}
+
+.home:link, .home:visited, .home:active {
+    color: var(--lx-web-plato-color);
+    text-decoration: none;
+}
+.home:hover {
+    color: var(--lx-web-link-hover);
+    text-decoration: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
+
 @media screen and (width: 1920px) {
     .body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
-        font-family: Arial;
-    }
-    ::-webkit-scrollbar {
-        display: none;
-        visibility: hidden;
-        opacity: 0;
     }
     .logo {
         margin: -15px 15px 30px -23px;
@@ -39,15 +52,6 @@
     }
     .menu9 {
         margin: -18px 0 -3px 110px;
-    }
-    .home:link, .home:visited, .home:active {
-        color: var(--lx-web-plato-color);
-        text-decoration: none;
-    
-    }
-    .home:hover {
-        color: var(--lx-web-link-hover);
-        text-decoration: none;
     }
     .navbar, .contentsbox {
         border-radius: 9px;
@@ -100,12 +104,6 @@
 @media screen and (width: 2560px) {
     .body {
         background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
-        font-family: Arial;
-    }
-    ::-webkit-scrollbar {
-        display: none;
-        visibility: hidden;
-        opacity: 0;
     }
     .logo {
         margin: -15px 15px 30px -23px;
@@ -136,15 +134,6 @@
     }
     .menu9 {
         margin: -18px 0 -3px 110px;
-    }
-    .home:link, .home:visited, .home:active {
-        color: var(--lx-web-plato-color);
-        text-decoration: none;
-    
-    }
-    .home:hover {
-        color: var(--lx-web-link-hover);
-        text-decoration: none;
     }
     .navbar, .contentsbox {
         border-radius: 9px;
