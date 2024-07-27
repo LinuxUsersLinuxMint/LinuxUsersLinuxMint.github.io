@@ -1,13 +1,11 @@
 body {
     text-align: center;
     font-family: Arial;
+    color: rgb(151, 31, 207);
 }
 .homelink {
     color: rgb(151, 31, 207);
     text-decoration: none;
-}
-.error {
-    color: rgb(151, 31, 207);
 }
 
 @media screen and (width: 1920px) {
