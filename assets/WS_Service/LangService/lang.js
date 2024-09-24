@@ -2,8 +2,8 @@ var lang = navigator.language || navigator.userLanguage;
 /**
  * Türkiye Cumhuriyeti Ve Diğer Türk ülkeleri /TR/index.html sayfasına gönderilecek şekilde ayarlanmıştır.
  * Web sitemiz sadece Türkçe ve İngilizce için destek vericektir. İlerde başka diller de eklenilebilir.
- * Sadece Resmi dili Türkçe olan ülkeler /TR/index.html sayfasına gönderilecek şekilde ayarlanmıştır eğer Türkiye Cumhuriyeti ve Türk ülkelerinde yaşamıyorsanız
- * ancak Türkçe dilini kullanıyor iseniz /TR/index.html sayfasına girebilmek için kullandığınız Web tarayıcısından konum değiştiriniz. İşe yaramazsa lütfen /support/linuxuserslinuxmint/location.tr.html sayfasını ziyaret ediniz.
+ * Sadece Resmi dili Türkçe olan ülkeler https://linuxuserslinuxmint.github.io/WS_Pages/TR/index.html sayfasına gönderilecek şekilde ayarlanmıştır eğer Türkiye Cumhuriyeti ve Türk ülkelerinde yaşamıyorsanız
+ * ancak Türkçe dilini kullanıyor iseniz https://linuxuserslinuxmint.github.io/WS_Pages/TR/index.html sayfasına girebilmek için kullandığınız Web tarayıcısından konum değiştiriniz. İşe yaramazsa lütfen https://linuxuserslinuxmint.github.io/support/linuxuserslinuxmint/location.tr.html sayfasını ziyaret ediniz.
  */
 if (lang == "tr-TR" | // Türkiye [1]
 lang == "tr" | // [1]
