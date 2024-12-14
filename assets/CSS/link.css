@@ -1,0 +1,10 @@
+@import url("/assets/CSS/CustomCSS/customcss.css");
+
+.home:link, .home:visited, .home:active, .home:hover {
+    color: var(--lx-web-plato-color);
+    text-decoration: none;
+}
+
+.home:hover {
+    color: var(--lx-web-link-hover);
+}

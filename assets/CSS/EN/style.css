@@ -4,15 +4,6 @@ body {
     font-family: Arial;
 }
 
-.home:link, .home:visited, .home:active {
-    color: var(--lx-web-plato-color);
-    text-decoration: none;
-}
-.home:hover {
-    color: var(--lx-web-link-hover);
-    text-decoration: none;
-}
-
 ::-webkit-scrollbar {
     display: none;
     visibility: hidden;

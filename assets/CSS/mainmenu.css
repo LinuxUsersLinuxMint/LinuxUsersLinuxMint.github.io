@@ -8,14 +8,6 @@ body {
 .maintenance {
     color: var(--lx-web-plato-color);
 }
-.home:link, .home:visited, .home:active, .home:hover {
-    color: var(--lx-web-plato-color);
-    text-decoration: none;
-
-}
-.home:hover {
-    color: var(--lx-web-link-hover);
-}
 @media screen and (width: 240px) {
     body {
         background: url("/assets/Images/WalpaperImages/240x320/macosmonterey.jpg");

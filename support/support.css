@@ -9,16 +9,6 @@
     border-radius: 9px;
 }
 
-.home:link, .home:visited, .home:active {
-    color: var(--lx-web-plato-color);
-    text-decoration: none;
-}
-
-.home:hover {
-    color: var(--lx-web-link-hover);
-    text-decoration: none;
-}
-
 @media screen and (width: 1920px) {
     .body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
