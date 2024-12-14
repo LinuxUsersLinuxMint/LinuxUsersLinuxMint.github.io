@@ -8,14 +8,13 @@ body {
 .maintenance {
     color: var(--lx-web-plato-color);
 }
-.home:link, .home:visited, .home:active {
+.home:link, .home:visited, .home:active, .home:hover {
     color: var(--lx-web-plato-color);
     text-decoration: none;
 
 }
 .home:hover {
     color: var(--lx-web-link-hover);
-    text-decoration: none;
 }
 @media screen and (width: 240px) {
     body {
