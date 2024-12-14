@@ -1,9 +1,4 @@
 @import url("/assets/CSS/CustomCSS/customcss.css");
-
-body {
-    font-family: Arial;
-}
-
 @media screen and (width: 1920px) {
     .body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");

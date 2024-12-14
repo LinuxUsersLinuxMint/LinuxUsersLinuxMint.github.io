@@ -1,9 +1,4 @@
 @import url("/assets/CSS/CustomCSS/customcss.css");
-
-.body {
-    font-family: Arial;
-}
-
 .supportmenu, .supportmenu1 {
     height: 0vh;
     border-radius: 9px;

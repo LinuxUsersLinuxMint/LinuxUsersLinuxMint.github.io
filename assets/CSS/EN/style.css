@@ -1,9 +1,4 @@
 @import url("/assets/CSS/CustomCSS/customcss.css");
-
-body {
-    font-family: Arial;
-}
-
 ::-webkit-scrollbar {
     display: none;
     visibility: hidden;
