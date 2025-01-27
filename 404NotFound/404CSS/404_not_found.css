@@ -1,11 +1,7 @@
+@import url("/assets/CSS/common_code.css");
 body {
     text-align: center;
-    font-family: Arial;
-    color: rgb(151, 31, 207);
-}
-.homelink {
-    color: rgb(151, 31, 207);
-    text-decoration: none;
+    color: var(--lx-web-plato-color);
 }
 
 @media screen and (width: 1920px) {
