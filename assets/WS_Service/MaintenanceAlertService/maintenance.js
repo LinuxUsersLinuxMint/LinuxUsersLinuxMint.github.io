@@ -1,2 +1,24 @@
-//alert("BAKIM BİLDİRİMİ: XX/XX/XXXX - XX/XX/XXXX XX XXXXXXX XXXXXXXX Saat: XX:XX - XX XXXXXXX XXXXXXXX Saat: XX:XX Tarihleri arası Web Sitesi Bakım Sebebiyle Kapatılmıştır.");
-//alert("MAINTENANCE NOTICE: The Website Has Been Closed Due to Maintenance Between XX/XX/XXXX - XX/XX/XXXX XX XXXXXXXX XXXXXXX Time: XX:XX - XX XXXXXXXX XXXXXXXX Time: XX:XX.");
+var lang = navigator.language;
+var status = 0;
+if (lang.startsWith("tr"))
+{
+    if (status == 0)
+    {
+        //
+    }
+    else if (status == 1)
+    {
+        //
+    }
+}
+else if (lang.startsWith("en"))
+{
+    if (status == 0)
+    {
+        //
+    }
+    else if (status == 1)
+    {
+        //
+    }
+}

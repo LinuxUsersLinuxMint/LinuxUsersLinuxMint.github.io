@@ -1,2 +1,0 @@
-//alert("BAKIM SONU BİLDİRİMİ: XX/XX/XXXX - XX/XX/XXXX XX XXXXXXX XXXXXXXXX Saat: XX:XX - XX XXXXXXX XXXXXXXXX Saat: XX:XX Tarihleri arasında olan bakım XX/XX/XXXX - XX:XX Tarihinde Sonlandırılmıştır. (XX XXXXXXX xx kaldırılıcaktır)","Bakım Sonu Bildirimi");
-//alert("END OF MAINTENANCE NOTIFICATION: The Website Has Been Closed Due to Maintenance Between XX/XX/XXXX - XX/XX/XXXX XX XXXXXXX XXXXXXXX Time: XX:XX - XX XXXXXXX XXXXXXXX Time: XX:XX. (It will be removed on XXXXXXXX XX)","Ends Of Maintenance Notification");
