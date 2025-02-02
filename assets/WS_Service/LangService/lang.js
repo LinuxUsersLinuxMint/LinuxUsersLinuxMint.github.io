@@ -1,11 +1,11 @@
 var lang = navigator.language;
 if (lang.startsWith("tr"))
 {
-    document.location.href = "/WS_Pages/TR/index.html";
+    document.location.href = "/WS_Pages/TR/";
 }
 else if (lang.startsWith("en"))
 {
-    document.location.href = "/WS_Pages/EN/index.html";
+    document.location.href = "/WS_Pages/EN/";
 }
 else if (lang != "en-EN" | lang != "en" | lang != "en_US" | lang != "en-US" | lang != "tr-TR" | lang != "tr" | lang != "tr_TR")
 {
