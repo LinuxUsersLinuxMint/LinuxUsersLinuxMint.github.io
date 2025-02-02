@@ -1,4 +1,4 @@
-var lang = navigator.language || navigator.userLanguage;
+var lang = navigator.language;
 if (lang.startsWith("tr"))
 {
     console.error("LinuxUsersLinuxMint: 404 bulunamadı hatası. Üzgünüm! bu web sitesinde aramaya çalıştığınız sayfa veya içerik taşınmış veya silinmiş olabilir...");

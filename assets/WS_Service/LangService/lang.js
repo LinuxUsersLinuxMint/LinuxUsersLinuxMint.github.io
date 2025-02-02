@@ -1,4 +1,4 @@
-var lang = navigator.language || navigator.userLanguage;
+var lang = navigator.language;
 if (lang.startsWith("tr"))
 {
     document.location.href = "/WS_Pages/TR/index.html";
