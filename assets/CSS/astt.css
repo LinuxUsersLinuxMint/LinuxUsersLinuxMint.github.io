@@ -1,12 +1,10 @@
+@import url("/assets/CSS/common_code.css");
+
 .Whatsavailable, .astt, .h3 {
     color: rgb(151, 31, 207);
 }
 .astt {
     text-align: center;
-}
-
-body {
-    font-family: Arial;
 }
 
 @media screen and (width: 1920px) {
