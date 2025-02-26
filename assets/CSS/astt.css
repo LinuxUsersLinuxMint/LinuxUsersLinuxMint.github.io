@@ -5,15 +5,17 @@
     text-align: center;
 }
 
+body {
+    font-family: Arial;
+}
+
 @media screen and (width: 1920px) {
     body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
-        font-family: Arial;
     }
 }
 @media screen and (width: 2560px) {
     body {
         background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
-        font-family: Arial;
     }
 }
