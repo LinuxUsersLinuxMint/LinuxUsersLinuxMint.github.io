@@ -1,5 +1,7 @@
+@import url("/assets/CSS/common_code.css");
+
 .Whatsavailable, .conttitle {
-    color: rgb(151, 31, 207);
+    color: var(--lx-web-plato-color);
 }
 .conttitle {
     text-align: center;
@@ -11,13 +13,11 @@
 @media screen and (width: 1920px) {
     body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
-        font-family: Arial;
     }
 }
 
 @media screen and (width: 2560px) {
     body {
         background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
-        font-family: Arial;
     }
 }

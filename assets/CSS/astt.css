@@ -1,7 +1,7 @@
 @import url("/assets/CSS/common_code.css");
 
 .Whatsavailable, .astt, .h3 {
-    color: rgb(151, 31, 207);
+    color: var(--lx-web-plato-color);
 }
 .astt {
     text-align: center;
