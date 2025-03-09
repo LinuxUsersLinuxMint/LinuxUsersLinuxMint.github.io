@@ -1,7 +1,7 @@
 window.onload = function() {
     var lang = navigator.language || navigator.userLanguage;
     var changelocation = document.getElementById("changelocation");
-    var lxlmdoc = document.getElementById("Updates");
+    var lxlmdoc = document.getElementById("lxlmdoc");
 
     if (lang.startsWith("en")) {
         changelocation.innerHTML = "Change location for the website";
