@@ -26,7 +26,7 @@ window.onload = function()
     if (lang.startsWith("tr"))
     {
         document.title = "LinuxUsersLinuxMint - Web sitesi sözleşmesi";
-        contractstitle.innerHTML = "- LinuxUsersLinuxMint Web (Sitesi) Sözleşmesi -";
+        contractstitle.innerHTML = "- LinuxUsersLinuxMint Web Sitesi Sözleşmesi -";
         author.innerHTML = "Yazar: LinuxUsersLinuxMint";
         whatsappchannel.innerHTML = "LinuxUsersLinuxMint TR (WhatsApp): "
         wchannel.innerHTML = "LinuxUsersLinuxMint TR";
