@@ -8,28 +8,14 @@
     .body {
         background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
     }
-    .supportmenu, .supportmenu1 {
-        width: 60%;
-        border: 15px solid var(--lx-web-opc-purple-color);
-    }
-    .supportmenu {
-        margin: -1px;
-    }
-    .supportmenu1 {
-        margin: 10px 0px 0px -1px;
-    }
-    .menutext {
-        margin: -10px 0 0 0;
-    }
-    .menutext1 {
-        margin: -17.5px 0 0 65px;
+}
+@media screen and (width: 2560px) {
+    .body {
+        background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.png");
     }
 }
 
-@media screen and (width: 2560px) {
-    .body {
-        background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
-    }
+@media screen and (min-width: 600px) {
     .supportmenu, .supportmenu1 {
         width: 60%;
         border: 15px solid var(--lx-web-opc-purple-color);
