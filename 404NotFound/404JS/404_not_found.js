@@ -3,7 +3,6 @@ window.onload = function() {
     var ErrorTitle = document.getElementById("ErrorTitle");
     var ErrorDescription = document.getElementById("ErrorDescription");
     var MainPage = document.getElementById("MainPage");
-    var SupportPage = document.getElementById("SupportPage");
 
     if (lang.startsWith("en")) {
         ErrorTitle.innerHTML = "404 not found error";
@@ -13,7 +12,6 @@ window.onload = function() {
         console.error("LinuxUsersLinuxMint: 404 not found error. Sorry! The page or content you are trying to search for on this website may have been moved or deleted...");
         alert("404 not found error");
         document.title = "LinuxUsersLinuxMint - 404 Not found";
-        SupportPage.href = "/support/index_en.html";
     }
     else if (lang.startsWith("tr")) {
         ErrorTitle.innerHTML = "404 bulunamadı hatası";
@@ -23,6 +21,5 @@ window.onload = function() {
         console.error("LinuxUsersLinuxMint: 404 bulunamadı hatası. Üzgünüm! bu web sitesinde aramaya çalıştığınız sayfa veya içerik taşınmış veya silinmiş olabilir...");
         alert("404 bulunamadı hatası");
         document.title = "LinuxUsersLinuxMint - 404 bulunamadı";
-        SupportPage.href = "/support/index_tr.html";
     }
 };
