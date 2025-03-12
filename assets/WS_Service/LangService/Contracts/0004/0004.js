@@ -44,7 +44,7 @@ window.onload = function()
         contractclause_5.innerHTML = "* LinuxUsersLinuxMint ve LinuxUsersLinuxMint Web sitesi için oluşturulan arşivler paylaşılamaz. ";
         contractclause_6.innerHTML = "* LinuxUsersLinuxMint kullanıcıları LinuxUsersLinuxMint adlı organizasyonun oluşturmuş olduğu arşivleri dağıtma hakkına/yetkisine sahip değildir (Arşivler sadece LinuxUsersLinuxMint web sitesinden görüntülenebilir).";
         contractstitle_4.innerHTML = "- Sözleşmeyi Reddetmek -";
-        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint Web Arşiv Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını Ve hizmetlerini kullanmayı";
+        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint Web Arşiv Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını ve hizmetlerini kullanmayı";
         contractclause_8.innerHTML = "bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız ve Kullanmamalısınız.";
     }
     else if (lang.startsWith("en"))

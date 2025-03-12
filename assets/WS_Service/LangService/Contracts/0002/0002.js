@@ -45,8 +45,8 @@ window.onload = function()
         contractclause_5.innerHTML = "* LinuxUsersLinuxMint yazılımları hataların ve sorunların hızlı bir biçimde farkedilebilmesi için açık kaynak olarak yayımlar.";
         contractclause_6.innerHTML = "* LinuxUsersLinuxMint kullanıcıları LinuxUsersLinuxMint yazılımlarını kendleri derleyip bu yazılımın LinuxUsersLinuxMint adlı organizasyona ait olduğunu / yazılımın kaynağını belirttiği sürece dağıtma hakkına sahiptir.";
         contractstitle_4.innerHTML = "- Sözleşmeyi Reddetmek -";
-        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint Web (Sitesi) Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını Ve hizmetlerini kullanmayı";
-        contractclause_8.innerHTML = "bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız Ve Kullanmamalısınız.";
+        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint Web (Sitesi) Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını ve hizmetlerini kullanmayı";
+        contractclause_8.innerHTML = "bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız ve Kullanmamalısınız.";
     }
     else if (lang.startsWith("en"))
     {

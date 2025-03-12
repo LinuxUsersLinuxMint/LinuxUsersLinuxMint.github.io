@@ -41,7 +41,7 @@ window.onload = function()
         contractclause_3.innerHTML = "* LinuxUsersLinuxMint AI, ChatGPT, Microsoft Copilot, VSCode Extension: Codeium: AI Coding... adlı yapay zeka ve yapay zeka araçlarını kullanır.";
         contractclause_4.innerHTML = "* LinuxUsersLinuxMint AI, yapay zekayı test edip şirketlere yapay zeka kullanım verilerimizi kullanmaları konusunda izin veririz ve bu sayede yapay zeka'nın daha çok gelişmesine katkıda bulunmuş oluruz.";
         contractstitle_3.innerHTML = "- Sözleşmeyi Reddetmek -";
-        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint AI Yapay Zeka Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını Ve hizmetlerini kullanmayı";
+        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint AI Yapay Zeka Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını ve hizmetlerini kullanmayı";
         contractclause_8.innerHTML = "bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız ve Kullanmamalısınız.";
     }
     else if (lang.startsWith("en"))
