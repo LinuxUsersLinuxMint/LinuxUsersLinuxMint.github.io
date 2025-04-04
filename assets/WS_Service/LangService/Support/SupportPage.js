@@ -1,5 +1,5 @@
 window.onload = function() {
-    var lang = navigator.language || navigator.userLanguage;
+    var lang = navigator.language;
     var changelocation = document.getElementById("changelocation");
     var lxlmdoc = document.getElementById("lxlmdoc");
 

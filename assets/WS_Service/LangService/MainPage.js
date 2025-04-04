@@ -10,7 +10,7 @@ date: 2/2/2025 11:45 PM
 */
 
 window.onload = function() {
-    var lang = navigator.language || navigator.userLanguage;
+    var lang = navigator.language;
     var About = document.getElementById("About");
     var Updates = document.getElementById("Updates");
     var Contracts = document.getElementById("Contracts");
