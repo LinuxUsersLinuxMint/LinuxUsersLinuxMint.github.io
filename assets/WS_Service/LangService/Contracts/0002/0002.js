@@ -33,9 +33,9 @@ window.onload = function()
         wchannel.href = "https://whatsapp.com/channel/0029VaedRagCXC3Fig5bpR3K";
         agreementcontent.innerHTML = "Sözleşme İçeriği: LinuxUsersLinuxMint Web sitesi ve LinuxUsersLinuxMint Organizasyonu içindir.";
         createddate.innerHTML = "Oluşturulma Tarihi: 02/12/2024 - 21:03";
-        agreementlocation.innerHTML = "Sözleşme Konumu: linuxuserslinuxmint.github.io/Contracts/linuxuserslinuxmintwebsiteagreement/tr/linuxuserslinuxmintwebsiteagreement";
+        agreementlocation.innerHTML = "Sözleşme Konumu: linuxuserslinuxmint.github.io/Contracts/linuxuserslinuxmintwebsiteagreement/linuxuserslinuxmintwebsiteagreement";
         contractstitle_1.innerHTML = "- Web Sözleşmesi açıklaması -";
-        contractclause.innerHTML = "* Bu LinuxUsersLinuxMint Web (Sitesi) Sözleşmesi LinuxUsersLinuxMint'ın web sitesinde ve Organizasyon olarak nasıl bir yol izlediğini açıklar.";
+        contractclause.innerHTML = "* Bu LinuxUsersLinuxMint Web Sitesi Sözleşmesi LinuxUsersLinuxMint'ın web sitesinde ve Organizasyon olarak nasıl bir yol izlediğini açıklar.";
         contractstitle_2.innerHTML = "- Web Sözleşmesi -";
         contractclause_1.innerHTML = "* LinuxUsersLinuxMint, Gizliliğe saygı duyar ve kullanıcılardan veri toplama veya bunları talep etmez.";
         contractclause_2.innerHTML = "* LinuxUsersLinuxMint, kullanıcıların web sitesinde kolaylıkla gezinebilmeleri gerektiğini düşünür ve web sitesini kullanım kolaylığına uyulacak şekilde tasarlar.";
@@ -45,7 +45,7 @@ window.onload = function()
         contractclause_5.innerHTML = "* LinuxUsersLinuxMint yazılımları hataların ve sorunların hızlı bir biçimde farkedilebilmesi için açık kaynak olarak yayımlar.";
         contractclause_6.innerHTML = "* LinuxUsersLinuxMint kullanıcıları LinuxUsersLinuxMint yazılımlarını kendleri derleyip bu yazılımın LinuxUsersLinuxMint adlı organizasyona ait olduğunu / yazılımın kaynağını belirttiği sürece dağıtma hakkına sahiptir.";
         contractstitle_4.innerHTML = "- Sözleşmeyi Reddetmek -";
-        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint Web (Sitesi) Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını ve hizmetlerini kullanmayı";
+        contractclause_7.innerHTML = "* Eğer Bu LinuxUsersLinuxMint Web Sitesi Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını ve hizmetlerini kullanmayı";
         contractclause_8.innerHTML = "bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız ve Kullanmamalısınız.";
     }
     else if (lang.startsWith("en"))
@@ -58,9 +58,9 @@ window.onload = function()
         wchannel.href = "https://whatsapp.com/channel/0029VaeZcNO5q08d6yNaxT0z";
         agreementcontent.innerHTML = "Agreement Content: For the LinuxUsersLinuxMint Website and the LinuxUsersLinuxMint Organization.";
         createddate.innerHTML = "Creation Date: 02/12/2024 - 21:03";
-        agreementlocation.innerHTML = "Contract Location: linuxuserslinuxmint.github.io/Contracts/linuxuserslinuxmintwebsiteagreement/en/linuxuserslinuxmintwebsiteagreement";
+        agreementlocation.innerHTML = "Contract Location: linuxuserslinuxmint.github.io/Contracts/linuxuserslinuxmintwebsiteagreement/linuxuserslinuxmintwebsiteagreement";
         contractstitle_1.innerHTML = "- Web Agreement description -";
-        contractclause.innerHTML = "* This LinuxUsersLinuxMint Web (Site) Agreement explains how LinuxUsersLinuxMint operates on its website and as an Organization.";
+        contractclause.innerHTML = "* This LinuxUsersLinuxMint Web Site Agreement explains how LinuxUsersLinuxMint operates on its website and as an Organization.";
         contractstitle_2.innerHTML = "- Web Agreement -";
         contractclause_1.innerHTML = "* LinuxUsersLinuxMint respects Privacy and does not collect or solicit data from users.";
         contractclause_2.innerHTML = "* LinuxUsersLinuxMint believes that users should be able to navigate the website easily and designs the website to ensure ease of use.";
@@ -70,7 +70,7 @@ window.onload = function()
         contractclause_5.innerHTML = "* LinuxUsersLinuxMint publishes software as open source so that errors and problems can be detected quickly.";
         contractclause_6.innerHTML = "* LinuxUsersLinuxMint users have the right to compile and distribute LinuxUsersLinuxMint software themselves, as long as they indicate that this software belongs to the organization called LinuxUsersLinuxMint / the source of the software.";
         contractstitle_4.innerHTML = "- Rejecting the Agreement -";
-        contractclause_7.innerHTML = "* If you reject this LinuxUsersLinuxMint Web (Site) Agreement. LinuxUsersUsing LinuxMint Software and Services";
+        contractclause_7.innerHTML = "* If you reject this LinuxUsersLinuxMint Web Site Agreement. LinuxUsersUsing LinuxMint Software and Services";
         contractclause_8.innerHTML = "You must leave and remove one copy of the software from your Device/Computer and not use it."; 
     }
 }
