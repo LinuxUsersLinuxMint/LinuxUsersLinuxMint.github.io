@@ -9,6 +9,6 @@ else if (lang.startsWith("en"))
 }
 else if (!lang.startsWith("en") && !lang.startsWith("tr"))
 {
-    alert("You are outside the TR or EN region. Support for languages of other countries has not been introduced.");
-    console.log("[linuxuserslinuxmint.github.io]: You are outside the TR or EN region. Support for languages of other countries has not been introduced.");
+    alert("Your browser language is not Turkish or English. Support for other languages is not provided.");
+    console.log("[linuxuserslinuxmint.github.io]: Your browser language is not Turkish or English. Support for other languages is not provided.");
 }
