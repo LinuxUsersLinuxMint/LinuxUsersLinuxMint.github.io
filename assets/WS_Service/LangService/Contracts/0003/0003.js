@@ -1,3 +1,5 @@
+// LinuxUsersLinuxMint AI Agreement
+
 window.onload = function()
 {
     var lang = navigator.language;

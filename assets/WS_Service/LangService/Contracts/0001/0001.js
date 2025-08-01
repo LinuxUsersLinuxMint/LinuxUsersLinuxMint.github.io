@@ -1,3 +1,5 @@
+// Privacy and Secutry agreement
+
 window.onload = function()
 {
     var lang = navigator.language;
@@ -34,7 +36,7 @@ window.onload = function()
         wchannel.href = "https://whatsapp.com/channel/0029VaedRagCXC3Fig5bpR3K";
         agreementcontent.innerHTML = "Sözleşme İçeriği: LinuxUsersLinuxMint github hesabında bulunan tüm hizmetler ve depolar (projeler) içindir.";
         createddate.innerHTML = "Oluşturulma Tarihi: 20/10/2023 - 23:12";
-        datelastedited.innerHTML = "Son Düzenlenme Tarihi: 19/07/2025 - 19:23";
+        datelastedited.innerHTML = "Son Düzenlenme Tarihi: 01/08/2025 - 23:46";
         agreementlocation.innerHTML = "Sözleşme Konumu: linuxuserslinuxmint.github.io/Contracts/privacyandsecutryagreement/privacyandsecutryagreement";
         contractstitle_1.innerHTML = "- Gizlilik Ve Güvenlik Açıklaması -";
         contractclause.innerHTML = "* Bu Gizlilik ve Güvenlik sözleşmesi, LinuxUsersLinuxMint web sitesi, hizmetleri ve projeleri için kullanıcılar adına nasıl bir politika izlendiğini açıklamaktadır.";
@@ -46,9 +48,9 @@ window.onload = function()
         contractclause_4.innerHTML = "* LinuxUsersLinuxMint yazılımları ve hizmetleri güvenliğe önem verir ve kullanıcı gizliliğine saygı duyup herhangi bir veri talep etmez.";
         contractclause_5.innerHTML = "* LinuxUsersLinuxMint Yazılımları Açık kaynak kod olmakla beraber güvenlidir.";
         contractclause_6.innerHTML = "* LinuxUsersLinuxMint kullanıcıları LinuxUsersLinuxMint yazılımlarını kendleri derleyip bu yazılımın LinuxUsersLinuxMint adlı organizasyona ait olduğunu / yazılımın kaynağını belirttiği sürece dağıtma hakkına sahiptir.";
-        contractclause_7.innerHTML = "* LinuxUsersLinuxMint Yazılımları kullanıcılardan veri toplama veya bunları talep etmez.";
+        contractclause_7.innerHTML = "* LinuxUsersLinuxMint yazılımları kullanıcılardan veri toplama veya bunları talep etmez.";
         contractstitle_4.innerHTML = "- Sözleşmeyi Reddetmek -";
-        contractclause_8.innerHTML = "* Eğer Bu Gizlilik ve Güvenlik Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint Yazılımlarını ve hizmetlerini kullanmayı";
+        contractclause_8.innerHTML = "* Eğer bu Gizlilik ve Güvenlik Sözleşmesi'ni reddediyor iseniz. LinuxUsersLinuxMint yazılımlarını ve hizmetlerini kullanmayı";
         contractclause_9.innerHTML = "bırakmalısınız ve yazılımların bir kopyasını Cihazınızdan/Bilgisayarınız'dan kaldırmalısınız ve kullanmamalısınız.";
     }
     else if (lang.startsWith("en"))
@@ -61,7 +63,7 @@ window.onload = function()
         wchannel.href = "https://whatsapp.com/channel/0029VaeZcNO5q08d6yNaxT0z";
         agreementcontent.innerHTML = "Agreement Content: For all services and Repositories (projects) available in the LinuxUsersLinuxMint github account.";
         createddate.innerHTML = "Created Date: 10/20/2023 - 11:12 PM";
-        datelastedited.innerHTML = "Date last edited: 7/19/2025 - 7:23 PM";
+        datelastedited.innerHTML = "Date last edited: 8/1/2025 - 11:46 PM";
         agreementlocation.innerHTML = "Contract Location: linuxuserslinuxmint.github.io/Contracts/privacyandsecutryagreement/privacyandsecutryagreement";
         contractstitle_1.innerHTML = "- Privacy and Security Disclosure -";
         contractclause.innerHTML = "* This Privacy and Security agreement explains how the LinuxUsersLinuxMint website, services and projects are operated on behalf of users.";
@@ -73,7 +75,7 @@ window.onload = function()
         contractclause_4.innerHTML = "* LinuxUsersLinuxMint software and services care about security and respect user privacy and do not request any data.";
         contractclause_5.innerHTML = "* LinuxUsersLinuxMint Software is open source and safe.";
         contractclause_6.innerHTML = "* LinuxUsersLinuxMint users have the right to compile and distribute LinuxUsersLinuxMint software themselves, as long as they indicate that this software belongs to the organization called LinuxUsersLinuxMint / the source of the software.";
-        contractclause_7.innerHTML = "* LinuxUsersLinuxMint Software does not collect or solicit data from users.";
+        contractclause_7.innerHTML = "* LinuxUsersLinuxMint software does not collect or solicit data from users.";
         contractstitle_4.innerHTML = "- Rejecting the Contract -";
         contractclause_8.innerHTML = "* If you reject this Privacy and Security Agreement. LinuxUsersUsing LinuxMint Software and Services You must leave and remove one copy of the software from your Device/Computer and not use it.";
         contractclause_9.innerHTML = "You must leave and remove one copy of the software from your Device/Computer and not use it.";

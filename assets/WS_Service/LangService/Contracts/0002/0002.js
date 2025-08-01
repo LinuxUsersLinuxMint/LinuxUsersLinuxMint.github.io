@@ -1,3 +1,5 @@
+// LinuxUsersLinuxMint Web site agreement
+
 window.onload = function()
 {
     var lang = navigator.language;
