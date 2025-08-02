@@ -1,0 +1,9 @@
+@import url("/assets/CSS/CustomCSS/customcss.css");
+body {
+    background: var(--lx-web-agreement-page-background-color);
+    font-family: Arial;
+}
+.title {
+    color: white;
+    text-align: left;
+}
