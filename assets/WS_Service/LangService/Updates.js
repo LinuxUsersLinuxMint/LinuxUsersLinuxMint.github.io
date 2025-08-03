@@ -6,6 +6,8 @@ window.onload = function() {
     var updates_two_date = document.getElementById("updates_two_date");
     var updates_two = document.getElementById("updates_two");
     var bug_fix_one = document.getElementById("bug_fix_one");
+    var updates_three_date = document.getElementById("updates_three_date");
+    var updates_three = document.getElementById("updates_three");
 
     if (lang.startsWith("en")) {
         document.title = "LinuxUsersLinuxMint - Web site update notes";
@@ -14,6 +16,9 @@ window.onload = function() {
         updates_one.innerHTML = "There is now an update notes page for the website, allowing users to see the changes that have been made.";
         updates_two_date.childNodes[0].nodeValue = "8/3/2025 - 2:50 PM (3 August, 2025):";
         updates_two.innerHTML = "The existing 404 error page for the website has been revamped and rebuilt using <a class=\"home\" href=\"https://getbootstrap.com/\">Bootstrap CSS</a>.";
+        bug_fix_one.innerHTML = "A missing link has been added to the Updates page on the Contracts page.";
+        updates_three_date.childNodes[0].nodeValue = "8/3/2025 - 6:11 PM (3 August, 2025):";
+        updates_three.innerHTML = "The Support page has been revamped and rebuilt using <a class=\"home\" href=\"https://getbootstrap.com/\">Bootstrap CSS</a>.";
     }
     else if (lang.startsWith("tr")) {
         document.title = "LinuxUsersLinuxMint - Web sitesi güncelleme notları";
@@ -23,5 +28,7 @@ window.onload = function() {
         updates_two_date.childNodes[0].nodeValue = "3/8/2025 - 14:50 (3 Ağustos, 2025):";
         updates_two.innerHTML = "Web sitesi için mevcut olan 404 hata sayfası yenilenmiştir ve <a class=\"home\" href=\"https://getbootstrap.com/\">Bootstrap CSS</a> ile yeniden yapılmıştır.";
         bug_fix_one.innerHTML = "Sözleşmeler sayfasında güncellemeler sayfası için eksik bağlantı eklenmiştir.";
+        updates_three_date.childNodes[0].nodeValue = "3/8/2025 - 18:11 (3 Ağustos, 2025):";
+        updates_three.innerHTML = "Destek sayfası yenilenmiştir ve <a class=\"home\" href=\"https://getbootstrap.com/\">Bootstrap CSS</a> ile yeniden yapılmıştır.";
     }
 };
