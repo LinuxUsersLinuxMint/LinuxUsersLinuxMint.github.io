@@ -1,17 +1,24 @@
 @import url("/assets/CSS/common_code.css");
-body {
-    text-align: center;
-    color: var(--lx-web-plato-color);
+.body {
+    background: var(--lx-web-agreement-page-background-color);
+    font-family: Arial;
 }
-
-@media screen and (width: 1920px) {
-    body {
-        background: url("/assets/Images/WalpaperImages/1920x1080/macosmonterey.png");
-    }
+.error-title-navbar, .error-footer {
+    border-radius: 9px;
 }
-
-@media screen and (width: 2560px) {
-    body {
-        background: url("/assets/Images/WalpaperImages/2560x1440/macosmonterey.jpg");
-    }
+.error-title-navbar {
+    margin: 10px;
+    background-color: rgb(41, 40, 40);
+}
+.error-footer {
+    margin: 50px;
+}
+.main-page, .support-page {
+    width: 300px !important;
+}
+.main-page {
+    margin: -30px;
+}
+.support-page {
+    margin: 40px;
 }

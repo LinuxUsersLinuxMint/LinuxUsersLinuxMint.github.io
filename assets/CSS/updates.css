@@ -7,3 +7,11 @@ body {
     color: white;
     text-align: left;
 }
+.home:link, .home:visited, .home:active, .home:hover {
+    color: rgb(0, 60, 255);
+    text-decoration: none;
+}
+
+.home:hover {
+    color: var(--lx-web-link-hover);
+}
