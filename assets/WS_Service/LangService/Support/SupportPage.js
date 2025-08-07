@@ -12,7 +12,6 @@ window.onload = function() {
         document.title = "LinuxUsersLinuxMint - Support Page";
         changelocation.innerHTML = "Change location for the website";
         lxlmdoc.innerHTML = "Documentation for LinuxUsersLinuxMint software";
-        support_page_title.innerHTML = document.title;
         go.innerHTML = "Go";
         go.href = "/support/linuxuserslinuxmint/location.en";
         go_.innerHTML = "Go";
@@ -23,11 +22,11 @@ window.onload = function() {
         document.title = "LinuxUsersLinuxMint - Destek Sayfası";
         changelocation.innerHTML = "Web sitesi için konum değiştirme";
         lxlmdoc.innerHTML = "LinuxUsersLinuxMint yazılımları için dokümanlar";
-        support_page_title.innerHTML = document.title;
         go.innerHTML = "Git";
         go.href = "/support/linuxuserslinuxmint/location.tr";
         go_.innerHTML = "Git";
         changelocation_description.innerHTML = "LinuxUsersLinuxMint web sitesi, Türkçe ve İngilizce dillerinde içerik desteği sunmaktadır. Ancak, bir dil kullanıldığında diğer dildeki içeriğe erişilemez. Diğer dildeki içeriğe erişmek istiyorsanız, konumunuzu değiştirmeniz gerekir.";
         lxlmdoc_description.innerHTML = "LinuxUsersLinuxMint yazılımları hakkında daha fazla bilgi edinmek için dokümanlara göz atınız.";
     }
+    support_page_title.innerHTML = document.title;
 };
